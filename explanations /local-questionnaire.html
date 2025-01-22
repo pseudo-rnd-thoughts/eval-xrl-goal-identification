@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agent Goal Identification</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Identify the Agent's Goal</h1>
+        <p>Observe the image and select the agent's goal from the options below.</p>
+
+        <div class="media-container">
+            <div id="observation-container">
+                <h3>Observation</h3>
+                <img id="observation-image" src="" alt="Observation" />
+            </div>
+
+            <div id="explanation-container">
+                <h3>Explanation</h3>
+                <!-- Container can hold either an image or a video -->
+                <img id="explanation-image" src="" alt="Explanation" style="display:none;" />
+                <video id="explanation-video" controls style="display:none;">
+                    <source id="explanation-video-source" src="" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+        </div>
+
+        <div id="goal-options">
+            <label>
+                <input type="radio" name="goal" value="Dots">
+                Dots
+            </label>
+            <label>
+                <input type="radio" name="goal" value="EnergyPill">
+                EnergyPill
+            </label>
+            <label>
+                <input type="radio" name="goal" value="Survival">
+                Survival
+            </label>
+            <label>
+                <input type="radio" name="goal" value="LoseALife">
+                LoseALife
+            </label>
+        </div>
+
+        <div id="confidence-options">
+            <label>
+                <input type="radio" name="confidence" value="VeryUnconfident">
+                Very Unconfident
+            </label>
+            <label>
+                <input type="radio" name="confidence" value="NotConfident">
+                Not Confident
+            </label>
+            <label>
+                <input type="radio" name="confidence" value="Neutral">
+                Neutral
+            </label>
+            <label>
+                <input type="radio" name="confidence" value="Confident">
+                Confident
+            </label>
+            <label>
+                <input type="radio" name="confidence" value="VeryConfident">
+                Very Confident
+            </label>
+        </div>
+
+        <button id="submit-btn">Submit</button>
+        <p id="result"></p>
+        <button id="new-set-btn">Generate New Set</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

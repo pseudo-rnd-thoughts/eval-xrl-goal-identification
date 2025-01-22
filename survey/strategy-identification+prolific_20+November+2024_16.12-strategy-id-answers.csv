@@ -1,0 +1,1601 @@
+user_id,obs_id,explanation_mechanism,true_strategy,predicted_strategy,is_correct,confidence,time_taken,survey_question_pos
+16,15,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,11.485,14
+16,8,DatasetSimilarity,Survival,Survival,True,Confident,13.32,12
+16,16,DatasetSimilarity,Survival,EnergyPill,False,Very Confident,11.731,15
+16,8,DatasetSimilarity,LoseALife,LoseALife,True,Neutral,22.399,13
+16,11,TemporalDecomposition,Dots,Survival,False,Neutral,3.927,2
+16,18,TemporalDecomposition,Dots,EnergyPill,False,Confident,18.186,1
+16,6,TemporalDecomposition,Survival,Dots,False,Confident,28.593,0
+16,8,TemporalDecomposition,LoseALife,LoseALife,True,Very Confident,5.884,3
+16,7,SARFA,Dots,Survival,False,Unconfident,14.813,10
+16,5,SARFA,EnergyPill,Dots,False,Neutral,6.796,11
+16,11,SARFA,Survival,LoseALife,False,Unconfident,11.21,9
+16,18,SARFA,LoseALife,EnergyPill,False,Confident,12.452,8
+16,3,OptimalAction,Dots,Survival,False,Confident,12.22,4
+16,13,OptimalAction,Dots,Dots,True,Confident,9.338,6
+16,3,OptimalAction,Survival,Survival,True,Confident,8.937,7
+16,8,OptimalAction,LoseALife,EnergyPill,False,Very Confident,6.505,5
+18,4,DatasetSimilarity,Dots,Dots,True,Unconfident,7.97,6
+18,13,DatasetSimilarity,Dots,Dots,True,Unconfident,47.358,4
+18,6,DatasetSimilarity,EnergyPill,EnergyPill,True,Very Unconfident,17.693,7
+18,18,DatasetSimilarity,LoseALife,Survival,False,Unconfident,14.101,5
+18,9,TemporalDecomposition,Dots,Dots,True,Neutral,23.19,3
+18,5,TemporalDecomposition,EnergyPill,EnergyPill,True,Confident,19.257,2
+18,19,TemporalDecomposition,EnergyPill,Dots,False,Neutral,24.202,1
+18,5,TemporalDecomposition,Survival,EnergyPill,False,Confident,15.696,0
+18,4,SARFA,EnergyPill,Dots,False,Confident,10.539,12
+18,14,SARFA,Survival,Survival,True,Neutral,14.267,13
+18,17,SARFA,Survival,Dots,False,Neutral,7.282,15
+18,5,SARFA,LoseALife,EnergyPill,False,Neutral,9.963,14
+18,6,OptimalAction,Dots,Survival,False,Neutral,7.861,8
+18,1,OptimalAction,Survival,Dots,False,Neutral,8.176,10
+18,18,OptimalAction,Survival,LoseALife,False,Confident,5.216,11
+18,3,OptimalAction,LoseALife,Dots,False,Neutral,10.765,9
+20,11,DatasetSimilarity,Dots,EnergyPill,False,Confident,22.559,12
+20,17,DatasetSimilarity,Dots,Dots,True,Confident,18.76,15
+20,10,DatasetSimilarity,EnergyPill,EnergyPill,True,Neutral,23.24,14
+20,3,DatasetSimilarity,Survival,Survival,True,Confident,17.028,13
+20,4,TemporalDecomposition,EnergyPill,Dots,False,Neutral,20.231,8
+20,10,TemporalDecomposition,EnergyPill,LoseALife,False,Unconfident,16.8,9
+20,2,TemporalDecomposition,Survival,Survival,True,Neutral,11.221,11
+20,17,TemporalDecomposition,LoseALife,LoseALife,True,Unconfident,30.48,10
+20,5,SARFA,Dots,Dots,True,Neutral,12.186,7
+20,6,SARFA,EnergyPill,EnergyPill,True,Confident,15.401,4
+20,4,SARFA,Survival,Dots,False,Confident,10.174,5
+20,13,SARFA,LoseALife,LoseALife,True,Unconfident,17.457,6
+20,3,OptimalAction,EnergyPill,Dots,False,Confident,24.128,0
+20,7,OptimalAction,EnergyPill,EnergyPill,True,Unconfident,31.349,1
+20,14,OptimalAction,EnergyPill,Survival,False,Confident,15.719,3
+20,18,OptimalAction,LoseALife,EnergyPill,False,Very Confident,12.693,2
+21,0,DatasetSimilarity,Dots,EnergyPill,False,Confident,10.15,10
+21,5,DatasetSimilarity,Dots,EnergyPill,False,Confident,19.018,11
+21,13,DatasetSimilarity,Survival,LoseALife,False,Confident,14.704,9
+21,18,DatasetSimilarity,Survival,Survival,True,Confident,15.593,8
+21,1,TemporalDecomposition,Dots,Dots,True,Neutral,13.131,6
+21,10,TemporalDecomposition,Dots,Dots,True,Neutral,13.821,4
+21,3,TemporalDecomposition,EnergyPill,Survival,False,Neutral,9.491,5
+21,13,TemporalDecomposition,Survival,Dots,False,Neutral,8.855,7
+21,3,SARFA,Dots,Survival,False,Neutral,23.8,0
+21,18,SARFA,EnergyPill,EnergyPill,True,Neutral,9.873,3
+21,0,SARFA,Survival,EnergyPill,False,Neutral,15.42,2
+21,6,SARFA,LoseALife,Dots,False,Neutral,13.958,1
+21,15,OptimalAction,Dots,EnergyPill,False,Confident,12.069,15
+21,16,OptimalAction,Dots,Survival,False,Neutral,15.51,12
+21,0,OptimalAction,Survival,Survival,True,Neutral,14.231,13
+21,13,OptimalAction,LoseALife,EnergyPill,False,Confident,9.421,14
+22,12,DatasetSimilarity,Dots,Dots,True,Neutral,31.118,1
+22,19,DatasetSimilarity,Dots,Dots,True,Neutral,29.355,2
+22,2,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,28.235,3
+22,5,DatasetSimilarity,Survival,Survival,True,Confident,26.611,0
+22,14,TemporalDecomposition,EnergyPill,Dots,False,Unconfident,7.701,13
+22,19,TemporalDecomposition,Survival,Dots,False,Confident,8.476,14
+22,1,TemporalDecomposition,LoseALife,Survival,False,Very Unconfident,19.785,12
+22,14,TemporalDecomposition,LoseALife,Survival,False,Very Unconfident,8.099,15
+22,3,SARFA,Survival,EnergyPill,False,Neutral,23.704,8
+22,18,SARFA,Survival,EnergyPill,False,Very Confident,9.986,9
+22,9,SARFA,LoseALife,Dots,False,Very Confident,7.139,11
+22,16,SARFA,LoseALife,Dots,False,Very Confident,6.794,10
+22,2,OptimalAction,Dots,Survival,False,Unconfident,15.813,4
+22,4,OptimalAction,EnergyPill,LoseALife,False,Neutral,87.58,7
+22,10,OptimalAction,EnergyPill,LoseALife,False,Neutral,14.056,5
+22,7,OptimalAction,LoseALife,Survival,False,Very Confident,7.257,6
+23,8,DatasetSimilarity,Dots,EnergyPill,False,Very Confident,22.458,14
+23,9,DatasetSimilarity,Dots,EnergyPill,False,Very Confident,15.966,15
+23,6,DatasetSimilarity,Survival,Survival,True,Very Confident,8.241,13
+23,11,DatasetSimilarity,LoseALife,Survival,False,Unconfident,34.726,12
+23,4,TemporalDecomposition,Dots,EnergyPill,False,Very Confident,23.223,10
+23,14,TemporalDecomposition,Dots,Survival,False,Unconfident,28.092,9
+23,14,TemporalDecomposition,Survival,Dots,False,Neutral,31.344,8
+23,11,TemporalDecomposition,LoseALife,LoseALife,True,Very Confident,6.557,11
+23,9,SARFA,Survival,Survival,True,Confident,22.046,0
+23,10,SARFA,Survival,Dots,False,Confident,18.086,3
+23,17,SARFA,LoseALife,LoseALife,True,Unconfident,52.638,2
+23,19,SARFA,LoseALife,EnergyPill,False,Very Confident,37.788,1
+23,14,OptimalAction,Dots,Survival,False,Confident,9.839,5
+23,10,OptimalAction,Survival,Survival,True,Unconfident,23.897,4
+23,13,OptimalAction,Survival,Survival,True,Confident,14.422,6
+23,11,OptimalAction,LoseALife,Survival,False,Confident,17.503,7
+24,2,DatasetSimilarity,Dots,EnergyPill,False,Confident,13.362,0
+24,2,DatasetSimilarity,Survival,Survival,True,Confident,14.18,2
+24,4,DatasetSimilarity,Survival,Survival,True,Confident,9.184,3
+24,17,DatasetSimilarity,Survival,Survival,True,Neutral,15.843,1
+24,16,TemporalDecomposition,Dots,EnergyPill,False,Confident,10.337,11
+24,16,TemporalDecomposition,EnergyPill,EnergyPill,True,Confident,12.254,10
+24,1,TemporalDecomposition,Survival,Dots,False,Neutral,7.113,9
+24,18,TemporalDecomposition,Survival,LoseALife,False,Neutral,14.65,8
+24,19,SARFA,Dots,EnergyPill,False,Unconfident,13.898,12
+24,10,SARFA,EnergyPill,EnergyPill,True,Neutral,13.227,14
+24,1,SARFA,LoseALife,Dots,False,Unconfident,8.048,15
+24,7,SARFA,LoseALife,Dots,False,Neutral,9.522,13
+24,8,OptimalAction,Dots,Survival,False,Neutral,12.971,6
+24,12,OptimalAction,Dots,Survival,False,Neutral,13.145,7
+24,6,OptimalAction,EnergyPill,Dots,False,Neutral,13.681,5
+24,14,OptimalAction,Survival,EnergyPill,False,Neutral,14.038,4
+26,3,DatasetSimilarity,Dots,EnergyPill,False,Confident,12.593,8
+26,18,DatasetSimilarity,Dots,Survival,False,Neutral,10.4,10
+26,9,DatasetSimilarity,EnergyPill,Dots,False,Neutral,11.975,11
+26,1,DatasetSimilarity,Survival,Dots,False,Confident,11.132,9
+26,2,TemporalDecomposition,Dots,Dots,True,Neutral,13.076,1
+26,5,TemporalDecomposition,Dots,Survival,False,Unconfident,24,0
+26,0,TemporalDecomposition,Survival,EnergyPill,False,Neutral,8.701,3
+26,17,TemporalDecomposition,Survival,EnergyPill,False,Neutral,11.475,2
+26,2,SARFA,Dots,Dots,True,Neutral,8.766,15
+26,4,SARFA,EnergyPill,Dots,False,Neutral,13.756,14
+26,4,SARFA,LoseALife,Dots,False,Unconfident,10.833,12
+26,18,SARFA,LoseALife,EnergyPill,False,Neutral,15.401,13
+26,0,OptimalAction,Dots,EnergyPill,False,Neutral,12.286,7
+26,7,OptimalAction,Dots,Survival,False,Neutral,9.632,6
+26,1,OptimalAction,EnergyPill,Dots,False,Neutral,14.902,4
+26,11,OptimalAction,EnergyPill,EnergyPill,True,Confident,10.041,5
+27,14,DatasetSimilarity,Dots,Dots,True,Confident,13.973,5
+27,4,DatasetSimilarity,EnergyPill,Dots,False,Confident,17.508,4
+27,12,DatasetSimilarity,Survival,Survival,True,Confident,16.493,6
+27,5,DatasetSimilarity,LoseALife,Survival,False,Confident,20.556,7
+27,7,TemporalDecomposition,EnergyPill,Dots,False,Neutral,8.362,11
+27,17,TemporalDecomposition,EnergyPill,Dots,False,Neutral,27.429,8
+27,0,TemporalDecomposition,LoseALife,LoseALife,True,Neutral,7.276,9
+27,3,TemporalDecomposition,LoseALife,EnergyPill,False,Neutral,12.016,10
+27,2,SARFA,EnergyPill,Survival,False,Confident,18.531,15
+27,2,SARFA,Survival,Dots,False,Confident,18.696,12
+27,16,SARFA,Survival,Dots,False,Confident,9.53,14
+27,12,SARFA,LoseALife,EnergyPill,False,Confident,21.029,13
+27,17,OptimalAction,EnergyPill,Dots,False,Neutral,61.281,0
+27,16,OptimalAction,Survival,Survival,True,Neutral,17.346,2
+27,0,OptimalAction,LoseALife,Survival,False,Confident,11.954,3
+27,4,OptimalAction,LoseALife,LoseALife,True,Confident,10.914,1
+28,8,DatasetSimilarity,EnergyPill,EnergyPill,True,Neutral,17.582,1
+28,19,DatasetSimilarity,Survival,Survival,True,Confident,40.832,0
+28,14,DatasetSimilarity,LoseALife,LoseALife,True,Unconfident,22.273,2
+28,15,DatasetSimilarity,LoseALife,Survival,False,Unconfident,22.285,3
+28,3,TemporalDecomposition,Dots,Survival,False,Confident,14.098,14
+28,6,TemporalDecomposition,EnergyPill,Survival,False,Confident,17.256,12
+28,12,TemporalDecomposition,Survival,Survival,True,Confident,10.072,15
+28,0,TemporalDecomposition,LoseALife,Dots,False,Confident,10.391,13
+28,0,SARFA,EnergyPill,EnergyPill,True,Neutral,20.169,9
+28,1,SARFA,Survival,Survival,True,Confident,14.18,8
+28,18,SARFA,Survival,EnergyPill,False,Confident,10.471,10
+28,15,SARFA,LoseALife,LoseALife,True,Confident,17.072,11
+28,2,OptimalAction,EnergyPill,Survival,False,Confident,11.731,7
+28,4,OptimalAction,Survival,Dots,False,Confident,9.608,5
+28,6,OptimalAction,LoseALife,EnergyPill,False,Unconfident,14.599,6
+28,19,OptimalAction,LoseALife,Dots,False,Confident,13.021,4
+29,11,DatasetSimilarity,Dots,Survival,False,Confident,11.733,10
+29,8,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,9.986,9
+29,5,DatasetSimilarity,Survival,Survival,True,Confident,18.725,8
+29,1,DatasetSimilarity,LoseALife,LoseALife,True,Neutral,21.163,11
+29,15,TemporalDecomposition,Dots,Survival,False,Neutral,9.556,6
+29,18,TemporalDecomposition,EnergyPill,EnergyPill,True,Neutral,24.591,4
+29,10,TemporalDecomposition,Survival,Survival,True,Neutral,45.477,7
+29,10,TemporalDecomposition,LoseALife,Dots,False,Confident,7.3,5
+29,1,SARFA,Dots,Survival,False,Neutral,20.325,2
+29,8,SARFA,Dots,EnergyPill,False,Neutral,8.564,3
+29,0,SARFA,EnergyPill,Dots,False,Confident,16.2,1
+29,9,SARFA,EnergyPill,LoseALife,False,Confident,13.573,0
+29,8,OptimalAction,Survival,LoseALife,False,Confident,14.741,12
+29,7,OptimalAction,LoseALife,Survival,False,Neutral,13.691,14
+29,10,OptimalAction,LoseALife,Survival,False,Neutral,36.117,15
+29,14,OptimalAction,LoseALife,Dots,False,Confident,43.436,13
+30,0,DatasetSimilarity,Survival,Dots,False,Confident,20.357,0
+30,6,DatasetSimilarity,Survival,Survival,True,Confident,16.5,2
+30,7,DatasetSimilarity,Survival,Survival,True,Neutral,15.628,3
+30,13,DatasetSimilarity,LoseALife,Survival,False,Neutral,12.284,1
+30,1,TemporalDecomposition,Dots,Dots,True,Neutral,6.067,10
+30,7,TemporalDecomposition,EnergyPill,Dots,False,Neutral,7.537,11
+30,3,TemporalDecomposition,LoseALife,Survival,False,Unconfident,27.288,8
+30,13,TemporalDecomposition,LoseALife,LoseALife,True,Very Unconfident,8.771,9
+30,11,SARFA,EnergyPill,LoseALife,False,Confident,6.387,13
+30,15,SARFA,EnergyPill,Dots,False,Confident,4.896,14
+30,18,SARFA,Survival,Survival,True,Confident,7.304,15
+30,19,SARFA,Survival,Dots,False,Confident,18.518,12
+30,9,OptimalAction,Dots,Dots,True,Neutral,11.386,7
+30,16,OptimalAction,EnergyPill,Dots,False,Confident,8.695,6
+30,18,OptimalAction,EnergyPill,Survival,False,Confident,10.401,5
+30,15,OptimalAction,LoseALife,Survival,False,Confident,9.762,4
+31,7,DatasetSimilarity,EnergyPill,EnergyPill,True,Very Confident,18.995,5
+31,14,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,10.511,7
+31,16,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,20.598,6
+31,14,DatasetSimilarity,Survival,Survival,True,Confident,29.411,4
+31,5,TemporalDecomposition,Dots,Survival,False,Neutral,25.634,8
+31,13,TemporalDecomposition,Dots,Survival,False,Unconfident,22.16,9
+31,10,TemporalDecomposition,Survival,EnergyPill,False,Confident,13.24,10
+31,12,TemporalDecomposition,Survival,Survival,True,Confident,10.593,11
+31,14,SARFA,Dots,EnergyPill,False,Confident,18.303,12
+31,15,SARFA,Dots,LoseALife,False,Confident,10.844,13
+31,17,SARFA,Dots,LoseALife,False,Confident,18.962,15
+31,15,SARFA,EnergyPill,LoseALife,False,Neutral,11.929,14
+31,1,OptimalAction,Dots,Dots,True,Neutral,25.997,1
+31,4,OptimalAction,Dots,Dots,True,Confident,29.94,0
+31,18,OptimalAction,Dots,Survival,False,Very Confident,6.992,2
+31,16,OptimalAction,LoseALife,EnergyPill,False,Neutral,17.046,3
+32,12,DatasetSimilarity,Dots,Survival,False,Neutral,10.056,9
+32,15,DatasetSimilarity,Dots,Survival,False,Neutral,11.422,10
+32,16,DatasetSimilarity,EnergyPill,EnergyPill,True,Neutral,16.1,8
+32,17,DatasetSimilarity,Survival,Survival,True,Confident,15.822,11
+32,6,TemporalDecomposition,Dots,Survival,False,Neutral,11.301,3
+32,12,TemporalDecomposition,EnergyPill,LoseALife,False,Neutral,10.335,1
+32,9,TemporalDecomposition,Survival,Dots,False,Confident,6.258,2
+32,16,TemporalDecomposition,Survival,EnergyPill,False,Neutral,14.124,0
+32,15,SARFA,Dots,EnergyPill,False,Neutral,7.252,6
+32,1,SARFA,EnergyPill,Survival,False,Neutral,3.697,7
+32,15,SARFA,EnergyPill,Survival,False,Neutral,15.148,4
+32,0,SARFA,LoseALife,Dots,False,Neutral,7.349,5
+32,1,OptimalAction,Dots,Survival,False,Confident,6.389,14
+32,1,OptimalAction,EnergyPill,Dots,False,Neutral,15.4,12
+32,8,OptimalAction,LoseALife,EnergyPill,False,Neutral,8.05,15
+32,9,OptimalAction,LoseALife,EnergyPill,False,Neutral,8.037,13
+33,18,DatasetSimilarity,Dots,Survival,False,Confident,7.802,2
+33,0,DatasetSimilarity,EnergyPill,Dots,False,Neutral,15.4,0
+33,18,DatasetSimilarity,EnergyPill,Survival,False,Very Confident,5.301,3
+33,3,DatasetSimilarity,LoseALife,EnergyPill,False,Confident,10.582,1
+33,14,TemporalDecomposition,Dots,Survival,False,Confident,3.005,13
+33,3,TemporalDecomposition,EnergyPill,LoseALife,False,Neutral,3.205,14
+33,19,TemporalDecomposition,Survival,EnergyPill,False,Confident,4.261,12
+33,4,TemporalDecomposition,LoseALife,Dots,False,Unconfident,4.864,15
+33,6,SARFA,EnergyPill,Survival,False,Neutral,5.36,11
+33,16,SARFA,EnergyPill,EnergyPill,True,Neutral,3.345,8
+33,15,SARFA,Survival,Survival,True,Confident,3.467,9
+33,2,SARFA,LoseALife,Survival,False,Neutral,3.302,10
+33,6,OptimalAction,Dots,Survival,False,Confident,6.139,6
+33,8,OptimalAction,Dots,Survival,False,Confident,3.544,7
+33,17,OptimalAction,EnergyPill,EnergyPill,True,Confident,4.676,4
+33,15,OptimalAction,Survival,Survival,True,Neutral,4.101,5
+34,3,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,13.427,12
+34,9,DatasetSimilarity,Survival,Survival,True,Confident,12.868,13
+34,6,DatasetSimilarity,LoseALife,LoseALife,True,Confident,10.973,15
+34,12,DatasetSimilarity,LoseALife,LoseALife,True,Confident,17.592,14
+34,8,TemporalDecomposition,Dots,EnergyPill,False,Neutral,21.945,8
+34,3,TemporalDecomposition,Survival,EnergyPill,False,Confident,7.506,10
+34,7,TemporalDecomposition,LoseALife,EnergyPill,False,Neutral,12.384,9
+34,19,TemporalDecomposition,LoseALife,LoseALife,True,Unconfident,10.601,11
+34,19,SARFA,EnergyPill,EnergyPill,True,Neutral,19.702,4
+34,5,SARFA,Survival,EnergyPill,False,Neutral,15.011,6
+34,6,SARFA,Survival,EnergyPill,False,Neutral,12.258,5
+34,10,SARFA,LoseALife,Dots,False,Confident,10.12,7
+34,7,OptimalAction,Survival,EnergyPill,False,Neutral,14.335,0
+34,17,OptimalAction,Survival,Dots,False,Neutral,12.204,2
+34,2,OptimalAction,LoseALife,Dots,False,Neutral,12.985,3
+34,5,OptimalAction,LoseALife,Dots,False,Neutral,11.352,1
+35,9,DatasetSimilarity,EnergyPill,EnergyPill,True,Neutral,17.394,6
+35,13,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,12.053,5
+35,17,DatasetSimilarity,EnergyPill,EnergyPill,True,Neutral,10.467,7
+35,16,DatasetSimilarity,LoseALife,EnergyPill,False,Confident,25.861,4
+35,8,TemporalDecomposition,EnergyPill,EnergyPill,True,Neutral,16.328,10
+35,9,TemporalDecomposition,EnergyPill,EnergyPill,True,Unconfident,20.439,9
+35,9,TemporalDecomposition,Survival,Survival,True,Neutral,19.584,8
+35,18,TemporalDecomposition,LoseALife,LoseALife,True,Neutral,8.858,11
+35,7,SARFA,Dots,EnergyPill,False,Neutral,12.253,15
+35,7,SARFA,EnergyPill,EnergyPill,True,Neutral,6.745,13
+35,0,SARFA,Survival,LoseALife,False,Neutral,18.312,12
+35,4,SARFA,LoseALife,EnergyPill,False,Neutral,11.035,14
+35,19,OptimalAction,Dots,LoseALife,False,Neutral,39.295,0
+35,5,OptimalAction,EnergyPill,Survival,False,Confident,13.391,1
+35,15,OptimalAction,Survival,EnergyPill,False,Neutral,15.331,2
+35,12,OptimalAction,LoseALife,EnergyPill,False,Neutral,13.755,3
+36,10,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,9.465,14
+36,4,DatasetSimilarity,Survival,Dots,False,Unconfident,28.065,13
+36,19,DatasetSimilarity,Survival,Survival,True,Neutral,23.06,12
+36,19,DatasetSimilarity,LoseALife,LoseALife,True,Confident,13.652,15
+36,9,TemporalDecomposition,EnergyPill,EnergyPill,True,Confident,28,0
+36,7,TemporalDecomposition,Survival,Dots,False,Confident,12.371,2
+36,8,TemporalDecomposition,Survival,LoseALife,False,Confident,19.848,1
+36,12,TemporalDecomposition,LoseALife,Survival,False,Confident,14.826,3
+36,8,SARFA,EnergyPill,Dots,False,Confident,9.945,8
+36,12,SARFA,EnergyPill,Survival,False,Neutral,15.045,11
+36,19,SARFA,EnergyPill,LoseALife,False,Confident,10.022,9
+36,14,SARFA,LoseALife,Survival,False,Confident,10.772,10
+36,0,OptimalAction,EnergyPill,Dots,False,Neutral,19.284,6
+36,15,OptimalAction,EnergyPill,LoseALife,False,Confident,17.581,4
+36,9,OptimalAction,Survival,Dots,False,Confident,15.156,5
+36,17,OptimalAction,LoseALife,LoseALife,True,Confident,9.683,7
+37,2,DatasetSimilarity,Dots,EnergyPill,False,Neutral,9.748,14
+37,3,DatasetSimilarity,Survival,Dots,False,Confident,16.132,13
+37,14,DatasetSimilarity,Survival,Dots,False,Very Unconfident,26.264,12
+37,17,DatasetSimilarity,LoseALife,Survival,False,Unconfident,15.445,15
+37,0,TemporalDecomposition,Dots,Dots,True,Confident,6.315,5
+37,8,TemporalDecomposition,EnergyPill,Survival,False,Neutral,13.589,7
+37,15,TemporalDecomposition,Survival,EnergyPill,False,Confident,6.375,6
+37,13,TemporalDecomposition,LoseALife,LoseALife,True,Unconfident,12.032,4
+37,17,SARFA,Dots,EnergyPill,False,Confident,7.961,3
+37,16,SARFA,Survival,EnergyPill,False,Very Confident,12.515,2
+37,4,SARFA,LoseALife,Dots,False,Confident,14.788,0
+37,8,SARFA,LoseALife,EnergyPill,False,Neutral,15.13,1
+37,9,OptimalAction,Dots,Dots,True,Unconfident,15.391,8
+37,1,OptimalAction,Survival,Dots,False,Confident,17.339,11
+37,13,OptimalAction,Survival,Survival,True,Very Unconfident,23.729,9
+37,18,OptimalAction,Survival,LoseALife,False,Confident,9.387,10
+38,6,DatasetSimilarity,Dots,EnergyPill,False,Neutral,21.885,2
+38,10,DatasetSimilarity,Dots,EnergyPill,False,Confident,19.482,3
+38,5,DatasetSimilarity,EnergyPill,Dots,False,Neutral,20.931,1
+38,19,DatasetSimilarity,EnergyPill,Dots,False,Neutral,24.018,0
+38,4,TemporalDecomposition,Dots,EnergyPill,False,Neutral,18.237,13
+38,16,TemporalDecomposition,Dots,Dots,True,Neutral,17.96,12
+38,14,TemporalDecomposition,Survival,Survival,True,Neutral,13.197,14
+38,12,TemporalDecomposition,LoseALife,LoseALife,True,Confident,10.201,15
+38,13,SARFA,Dots,Survival,False,Unconfident,24.864,5
+38,1,SARFA,Survival,LoseALife,False,Unconfident,27.454,6
+38,7,SARFA,Survival,Survival,True,Neutral,16.801,7
+38,15,SARFA,Survival,EnergyPill,False,Neutral,23.342,4
+38,5,OptimalAction,EnergyPill,EnergyPill,True,Neutral,19.077,8
+38,19,OptimalAction,EnergyPill,Survival,False,Neutral,19.162,9
+38,1,OptimalAction,LoseALife,Dots,False,Neutral,11.728,10
+38,16,OptimalAction,LoseALife,Survival,False,Neutral,20.006,11
+39,7,DatasetSimilarity,Dots,EnergyPill,False,Confident,13.959,3
+39,8,DatasetSimilarity,Dots,Dots,True,Confident,14.152,2
+39,10,DatasetSimilarity,Survival,Dots,False,Neutral,39.072,0
+39,0,DatasetSimilarity,LoseALife,LoseALife,True,Neutral,24.156,1
+39,10,TemporalDecomposition,Dots,Survival,False,Unconfident,12.549,15
+39,11,TemporalDecomposition,EnergyPill,Dots,False,Neutral,29.617,13
+39,13,TemporalDecomposition,Survival,Survival,True,Confident,10.916,14
+39,7,TemporalDecomposition,LoseALife,LoseALife,True,Unconfident,37.282,12
+39,12,SARFA,Dots,LoseALife,False,Very Unconfident,25.518,9
+39,11,SARFA,EnergyPill,LoseALife,False,Neutral,16.631,10
+39,2,SARFA,Survival,Dots,False,Confident,16.461,11
+39,3,SARFA,LoseALife,LoseALife,True,Very Unconfident,28.597,8
+39,17,OptimalAction,Dots,Dots,True,Confident,9.928,7
+39,19,OptimalAction,EnergyPill,LoseALife,False,Confident,15.084,4
+39,2,OptimalAction,Survival,Survival,True,Neutral,16.196,5
+39,10,OptimalAction,LoseALife,LoseALife,True,Confident,19.494,6
+40,4,DatasetSimilarity,Dots,Dots,True,Very Confident,19.036,11
+40,14,DatasetSimilarity,EnergyPill,EnergyPill,True,Very Confident,30.416,8
+40,0,DatasetSimilarity,LoseALife,LoseALife,True,Very Confident,18.462,9
+40,7,DatasetSimilarity,LoseALife,LoseALife,True,Confident,17.85,10
+40,11,TemporalDecomposition,Dots,EnergyPill,False,Very Confident,9.603,14
+40,0,TemporalDecomposition,EnergyPill,Survival,False,Confident,10.352,15
+40,4,TemporalDecomposition,EnergyPill,EnergyPill,True,Neutral,15.005,13
+40,6,TemporalDecomposition,LoseALife,LoseALife,True,Neutral,21.489,12
+40,0,SARFA,Dots,LoseALife,False,Neutral,13.378,5
+40,12,SARFA,Dots,EnergyPill,False,Confident,16.302,7
+40,14,SARFA,EnergyPill,Survival,False,Confident,33.92,4
+40,3,SARFA,LoseALife,Survival,False,Very Confident,14.352,6
+40,8,OptimalAction,EnergyPill,EnergyPill,True,Very Confident,14.451,2
+40,9,OptimalAction,EnergyPill,Survival,False,Confident,19.99,1
+40,12,OptimalAction,EnergyPill,Survival,False,Confident,17.481,3
+40,19,OptimalAction,Survival,LoseALife,False,Confident,30.16,0
+41,8,DatasetSimilarity,Dots,EnergyPill,False,Confident,8.503,13
+41,19,DatasetSimilarity,Dots,EnergyPill,False,Confident,20.318,12
+41,5,DatasetSimilarity,Survival,Survival,True,Confident,9.131,14
+41,16,DatasetSimilarity,Survival,LoseALife,False,Neutral,12.921,15
+41,1,TemporalDecomposition,Dots,EnergyPill,False,Confident,8.338,10
+41,9,TemporalDecomposition,Dots,Dots,True,Neutral,23.844,8
+41,13,TemporalDecomposition,EnergyPill,Survival,False,Confident,7.777,11
+41,18,TemporalDecomposition,LoseALife,LoseALife,True,Confident,6.849,9
+41,2,SARFA,Dots,Survival,False,Confident,10.187,2
+41,16,SARFA,Dots,EnergyPill,False,Very Confident,4.503,3
+41,13,SARFA,Survival,Survival,True,Confident,25.248,1
+41,15,SARFA,LoseALife,Dots,False,Confident,42.04,0
+41,17,OptimalAction,Dots,EnergyPill,False,Confident,19.857,5
+41,9,OptimalAction,Survival,Survival,True,Confident,12.745,7
+41,15,OptimalAction,LoseALife,Dots,False,Neutral,34.674,4
+41,19,OptimalAction,LoseALife,Survival,False,Neutral,14.488,6
+42,1,DatasetSimilarity,Survival,LoseALife,False,Confident,18.502,15
+42,4,DatasetSimilarity,LoseALife,EnergyPill,False,Unconfident,32.376,14
+42,8,DatasetSimilarity,LoseALife,Dots,False,Confident,16.398,13
+42,17,DatasetSimilarity,LoseALife,EnergyPill,False,Confident,17.244,12
+42,2,TemporalDecomposition,Dots,EnergyPill,False,Neutral,15.545,10
+42,10,TemporalDecomposition,EnergyPill,Dots,False,Confident,17.239,11
+42,15,TemporalDecomposition,LoseALife,LoseALife,True,Unconfident,25.57,8
+42,17,TemporalDecomposition,LoseALife,LoseALife,True,Confident,15.041,9
+42,4,SARFA,Dots,Dots,True,Unconfident,27.317,2
+42,10,SARFA,EnergyPill,LoseALife,False,Unconfident,27.715,1
+42,1,SARFA,LoseALife,Dots,False,Unconfident,34.201,0
+42,12,SARFA,LoseALife,Survival,False,Unconfident,14.501,3
+42,5,OptimalAction,Dots,Survival,False,Confident,28.003,4
+42,6,OptimalAction,Survival,Dots,False,Very Confident,18.601,7
+42,8,OptimalAction,Survival,LoseALife,False,Very Confident,6.344,6
+42,9,OptimalAction,LoseALife,Dots,False,Neutral,20.065,5
+43,15,DatasetSimilarity,Dots,EnergyPill,False,Confident,25.337,2
+43,12,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,23.472,1
+43,1,DatasetSimilarity,Survival,Survival,True,Confident,28.791,0
+43,11,DatasetSimilarity,LoseALife,Survival,False,Neutral,31.717,3
+43,10,TemporalDecomposition,Dots,Dots,True,Confident,9.691,14
+43,6,TemporalDecomposition,EnergyPill,Dots,False,Confident,22.84,12
+43,0,TemporalDecomposition,LoseALife,Survival,False,Confident,17.337,13
+43,17,TemporalDecomposition,LoseALife,EnergyPill,False,Confident,13.887,15
+43,18,SARFA,Dots,Survival,False,Unconfident,28.373,7
+43,2,SARFA,EnergyPill,Survival,False,Unconfident,18.204,5
+43,12,SARFA,EnergyPill,Survival,False,Unconfident,41.417,4
+43,17,SARFA,EnergyPill,Survival,False,Confident,12.856,6
+43,7,OptimalAction,EnergyPill,Survival,False,Neutral,11.587,11
+43,10,OptimalAction,EnergyPill,LoseALife,False,Neutral,29.136,8
+43,18,OptimalAction,EnergyPill,Survival,False,Confident,13.355,9
+43,7,OptimalAction,Survival,Dots,False,Confident,25.559,10
+44,0,DatasetSimilarity,Dots,Dots,True,Confident,10.876,4
+44,19,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,9.655,7
+44,2,DatasetSimilarity,Survival,Survival,True,Neutral,11.639,6
+44,10,DatasetSimilarity,Survival,LoseALife,False,Neutral,12.727,5
+44,6,TemporalDecomposition,Dots,Dots,True,Confident,18.906,8
+44,4,TemporalDecomposition,Survival,Survival,True,Confident,14.457,11
+44,4,TemporalDecomposition,LoseALife,Survival,False,Confident,10.084,10
+44,9,TemporalDecomposition,LoseALife,EnergyPill,False,Confident,12.594,9
+44,8,SARFA,Dots,EnergyPill,False,Very Confident,21.702,0
+44,13,SARFA,Survival,EnergyPill,False,Very Unconfident,20.546,1
+44,19,SARFA,Survival,LoseALife,False,Neutral,15.247,3
+44,7,SARFA,LoseALife,EnergyPill,False,Confident,18.292,2
+44,5,OptimalAction,Dots,Survival,False,Neutral,6.098,14
+44,11,OptimalAction,Dots,EnergyPill,False,Neutral,10.597,12
+44,16,OptimalAction,Dots,Dots,True,Confident,5.278,15
+44,7,OptimalAction,Survival,Survival,True,Neutral,7.584,13
+45,5,DatasetSimilarity,Dots,EnergyPill,False,Confident,10.824,7
+45,14,DatasetSimilarity,Dots,Dots,True,Confident,12.531,6
+45,11,DatasetSimilarity,Survival,EnergyPill,False,Very Confident,12.895,4
+45,12,DatasetSimilarity,LoseALife,LoseALife,True,Confident,11.944,5
+45,17,TemporalDecomposition,Dots,Dots,True,Confident,14.406,0
+45,16,TemporalDecomposition,EnergyPill,Survival,False,Neutral,15.089,1
+45,15,TemporalDecomposition,Survival,EnergyPill,False,Confident,8.685,3
+45,9,TemporalDecomposition,LoseALife,LoseALife,True,Neutral,22.694,2
+45,11,SARFA,Dots,EnergyPill,False,Unconfident,11.935,15
+45,17,SARFA,Dots,LoseALife,False,Confident,7.168,13
+45,8,SARFA,EnergyPill,Survival,False,Confident,7.85,14
+45,12,SARFA,EnergyPill,EnergyPill,True,Unconfident,18.165,12
+45,0,OptimalAction,Dots,Dots,True,Neutral,15.177,11
+45,0,OptimalAction,EnergyPill,Dots,False,Very Confident,9.929,8
+45,9,OptimalAction,EnergyPill,Survival,False,Confident,10.913,9
+45,8,OptimalAction,Survival,EnergyPill,False,Neutral,9.472,10
+46,1,DatasetSimilarity,Dots,Dots,True,Neutral,10.64,7
+46,4,DatasetSimilarity,EnergyPill,Dots,False,Confident,10.161,6
+46,7,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,15.565,5
+46,2,DatasetSimilarity,LoseALife,LoseALife,True,Neutral,45.605,4
+46,13,TemporalDecomposition,EnergyPill,EnergyPill,True,Neutral,14.878,3
+46,14,TemporalDecomposition,EnergyPill,Survival,False,Neutral,17.599,1
+46,1,TemporalDecomposition,Survival,Dots,False,Confident,19.289,0
+46,2,TemporalDecomposition,Survival,Dots,False,Confident,16.737,2
+46,8,SARFA,Dots,EnergyPill,False,Unconfident,23.676,13
+46,7,SARFA,Survival,Survival,True,Confident,17.521,12
+46,8,SARFA,Survival,Survival,True,Neutral,14.9,15
+46,7,SARFA,LoseALife,Dots,False,Neutral,8.177,14
+46,18,OptimalAction,Dots,EnergyPill,False,Confident,14.144,8
+46,0,OptimalAction,LoseALife,Survival,False,Confident,5.637,11
+46,6,OptimalAction,LoseALife,Dots,False,Neutral,9.109,10
+46,8,OptimalAction,LoseALife,LoseALife,True,Confident,12.8,9
+47,16,DatasetSimilarity,Dots,Dots,True,Confident,40.557,3
+47,1,DatasetSimilarity,EnergyPill,EnergyPill,True,Neutral,47.665,0
+47,1,DatasetSimilarity,LoseALife,Survival,False,Unconfident,45.045,1
+47,17,DatasetSimilarity,LoseALife,Survival,False,Confident,21.749,2
+47,18,TemporalDecomposition,Dots,EnergyPill,False,Confident,9.868,15
+47,15,TemporalDecomposition,EnergyPill,EnergyPill,True,Confident,28.88,12
+47,19,TemporalDecomposition,Survival,Dots,False,Confident,9.716,14
+47,7,TemporalDecomposition,LoseALife,LoseALife,True,Confident,25.593,13
+47,6,SARFA,Dots,Dots,True,Confident,45.577,8
+47,13,SARFA,Dots,LoseALife,False,Unconfident,30.023,10
+47,3,SARFA,Survival,EnergyPill,False,Neutral,12.3,11
+47,10,SARFA,Survival,Survival,True,Confident,11.101,9
+47,0,OptimalAction,EnergyPill,Survival,False,Very Confident,9.854,6
+47,14,OptimalAction,EnergyPill,Dots,False,Confident,23.416,4
+47,6,OptimalAction,LoseALife,EnergyPill,False,Unconfident,37.317,5
+47,17,OptimalAction,LoseALife,Dots,False,Very Unconfident,26.4,7
+48,8,DatasetSimilarity,Survival,Dots,False,Neutral,11.227,3
+48,16,DatasetSimilarity,Survival,LoseALife,False,Confident,17.144,2
+48,5,DatasetSimilarity,LoseALife,LoseALife,True,Very Confident,10.871,1
+48,16,DatasetSimilarity,LoseALife,LoseALife,True,Very Confident,12.439,0
+48,7,TemporalDecomposition,EnergyPill,Dots,False,Neutral,12.429,15
+48,8,TemporalDecomposition,EnergyPill,Dots,False,Unconfident,4.659,14
+48,17,TemporalDecomposition,EnergyPill,LoseALife,False,Unconfident,4.876,13
+48,18,TemporalDecomposition,Survival,Survival,True,Neutral,6.213,12
+48,6,SARFA,EnergyPill,LoseALife,False,Confident,8.992,5
+48,9,SARFA,EnergyPill,Survival,False,Neutral,5.228,6
+48,9,SARFA,Survival,EnergyPill,False,Unconfident,23.332,4
+48,11,SARFA,LoseALife,Dots,False,Unconfident,5.8,7
+48,13,OptimalAction,Dots,LoseALife,False,Unconfident,9.174,9
+48,10,OptimalAction,EnergyPill,Survival,False,Neutral,13.499,10
+48,9,OptimalAction,LoseALife,LoseALife,True,Unconfident,7.351,11
+48,10,OptimalAction,LoseALife,Survival,False,Neutral,20.082,8
+49,7,DatasetSimilarity,Dots,EnergyPill,False,Very Confident,16.271,5
+49,15,DatasetSimilarity,EnergyPill,EnergyPill,True,Very Confident,10,4
+49,18,DatasetSimilarity,EnergyPill,EnergyPill,True,Very Confident,11.254,6
+49,10,DatasetSimilarity,LoseALife,Survival,False,Very Confident,13.455,7
+49,17,TemporalDecomposition,Dots,EnergyPill,False,Very Confident,13.062,2
+49,2,TemporalDecomposition,EnergyPill,EnergyPill,True,Very Confident,11.568,3
+49,4,TemporalDecomposition,LoseALife,EnergyPill,False,Confident,33.496,0
+49,9,TemporalDecomposition,LoseALife,EnergyPill,False,Confident,15.342,1
+49,5,SARFA,Dots,Survival,False,Very Confident,14.576,13
+49,6,SARFA,Dots,Dots,True,Very Confident,8.5,15
+49,17,SARFA,EnergyPill,Survival,False,Very Confident,34.895,12
+49,4,SARFA,Survival,Dots,False,Very Confident,21.638,14
+49,3,OptimalAction,Dots,Survival,False,Very Confident,12.373,8
+49,5,OptimalAction,Dots,Survival,False,Very Confident,9.232,9
+49,4,OptimalAction,EnergyPill,Survival,False,Very Confident,10.054,10
+49,13,OptimalAction,LoseALife,Survival,False,Very Confident,11.16,11
+50,17,DatasetSimilarity,EnergyPill,LoseALife,False,Unconfident,17.385,5
+50,0,DatasetSimilarity,Survival,Survival,True,Neutral,24.375,4
+50,12,DatasetSimilarity,Survival,LoseALife,False,Very Confident,16.087,7
+50,13,DatasetSimilarity,Survival,EnergyPill,False,Unconfident,19.054,6
+50,3,TemporalDecomposition,Dots,EnergyPill,False,Unconfident,23.086,0
+50,11,TemporalDecomposition,EnergyPill,Dots,False,Confident,20.879,1
+50,4,TemporalDecomposition,Survival,Survival,True,Neutral,10.655,2
+50,6,TemporalDecomposition,LoseALife,EnergyPill,False,Unconfident,14.09,3
+50,3,SARFA,Dots,Dots,True,Very Unconfident,2.55,10
+50,2,SARFA,Survival,LoseALife,False,Very Unconfident,20.052,8
+50,1,SARFA,LoseALife,EnergyPill,False,Very Unconfident,5.188,9
+50,6,SARFA,LoseALife,Survival,False,Very Unconfident,5.831,11
+50,4,OptimalAction,Dots,LoseALife,False,Very Confident,11.264,15
+50,10,OptimalAction,Dots,LoseALife,False,Very Confident,7.864,14
+50,18,OptimalAction,EnergyPill,LoseALife,False,Confident,11.076,12
+50,12,OptimalAction,LoseALife,EnergyPill,False,Very Confident,11.801,13
+51,3,DatasetSimilarity,Dots,EnergyPill,False,Unconfident,25,14
+51,7,DatasetSimilarity,Dots,EnergyPill,False,Neutral,14.156,15
+51,18,DatasetSimilarity,Dots,EnergyPill,False,Confident,15.65,13
+51,17,DatasetSimilarity,EnergyPill,LoseALife,False,Neutral,19.629,12
+51,12,TemporalDecomposition,Dots,EnergyPill,False,Confident,17.282,2
+51,19,TemporalDecomposition,Dots,Survival,False,Neutral,24.587,0
+51,15,TemporalDecomposition,EnergyPill,Dots,False,Unconfident,25.28,3
+51,5,TemporalDecomposition,LoseALife,LoseALife,True,Confident,18.377,1
+51,2,SARFA,Dots,EnergyPill,False,Unconfident,20.862,9
+51,15,SARFA,Dots,EnergyPill,False,Unconfident,20.282,10
+51,1,SARFA,Survival,LoseALife,False,Very Unconfident,31.445,11
+51,0,SARFA,LoseALife,Survival,False,Unconfident,28.021,8
+51,10,OptimalAction,Dots,LoseALife,False,Confident,18.778,7
+51,9,OptimalAction,EnergyPill,Survival,False,Confident,14.397,6
+51,10,OptimalAction,Survival,Dots,False,Very Unconfident,31.273,4
+51,17,OptimalAction,Survival,EnergyPill,False,Unconfident,23.755,5
+52,9,DatasetSimilarity,Dots,EnergyPill,False,Confident,15.002,3
+52,11,DatasetSimilarity,Survival,Survival,True,Confident,20.174,1
+52,15,DatasetSimilarity,Survival,Survival,True,Confident,35.082,2
+52,2,DatasetSimilarity,LoseALife,EnergyPill,False,Confident,30.726,0
+52,11,TemporalDecomposition,Dots,EnergyPill,False,Confident,31.802,4
+52,19,TemporalDecomposition,Dots,EnergyPill,False,Neutral,16.397,7
+52,15,TemporalDecomposition,EnergyPill,LoseALife,False,Neutral,17.298,5
+52,4,TemporalDecomposition,Survival,Dots,False,Confident,11.859,6
+52,14,SARFA,EnergyPill,Dots,False,Unconfident,20.345,10
+52,11,SARFA,Survival,LoseALife,False,Unconfident,42.98,8
+52,15,SARFA,Survival,Survival,True,Unconfident,18.126,9
+52,17,SARFA,LoseALife,EnergyPill,False,Confident,9.122,11
+52,1,OptimalAction,Dots,LoseALife,False,Confident,17.031,13
+52,13,OptimalAction,EnergyPill,Survival,False,Neutral,18.152,14
+52,13,OptimalAction,Survival,Dots,False,Unconfident,9.273,15
+52,18,OptimalAction,Survival,LoseALife,False,Very Confident,8,12
+53,6,DatasetSimilarity,Dots,Survival,False,Unconfident,15.639,11
+53,19,DatasetSimilarity,Dots,Survival,False,Unconfident,17.769,9
+53,7,DatasetSimilarity,Survival,Dots,False,Neutral,15.353,8
+53,9,DatasetSimilarity,LoseALife,LoseALife,True,Unconfident,20.679,10
+53,9,TemporalDecomposition,EnergyPill,Survival,False,Neutral,16.561,14
+53,2,TemporalDecomposition,Survival,Dots,False,Neutral,21.974,12
+53,6,TemporalDecomposition,Survival,Survival,True,Neutral,10.683,15
+53,15,TemporalDecomposition,Survival,EnergyPill,False,Neutral,36.894,13
+53,3,SARFA,EnergyPill,Dots,False,Neutral,17.639,0
+53,7,SARFA,EnergyPill,LoseALife,False,Unconfident,7.898,3
+53,16,SARFA,EnergyPill,EnergyPill,True,Unconfident,14.763,1
+53,19,SARFA,Survival,Survival,True,Unconfident,10.166,2
+53,13,OptimalAction,EnergyPill,EnergyPill,True,Very Unconfident,23.334,4
+53,11,OptimalAction,Survival,Survival,True,Unconfident,10.467,6
+53,3,OptimalAction,LoseALife,LoseALife,True,Unconfident,15.216,7
+53,12,OptimalAction,LoseALife,Dots,False,Unconfident,14.778,5
+54,1,DatasetSimilarity,Dots,EnergyPill,False,Confident,28.172,2
+54,4,DatasetSimilarity,LoseALife,Dots,False,Neutral,33.732,1
+54,7,DatasetSimilarity,LoseALife,LoseALife,True,Confident,19.164,0
+54,10,DatasetSimilarity,LoseALife,LoseALife,True,Confident,15.401,3
+54,3,TemporalDecomposition,EnergyPill,Dots,False,Unconfident,12.739,12
+54,16,TemporalDecomposition,EnergyPill,EnergyPill,True,Neutral,9.646,15
+54,9,TemporalDecomposition,Survival,LoseALife,False,Unconfident,11.835,14
+54,16,TemporalDecomposition,Survival,Dots,False,Confident,17.373,13
+54,7,SARFA,Dots,Dots,True,Neutral,13.564,6
+54,18,SARFA,Dots,EnergyPill,False,Neutral,11.366,5
+54,9,SARFA,EnergyPill,LoseALife,False,Unconfident,25.399,4
+54,13,SARFA,EnergyPill,LoseALife,False,Neutral,8.453,7
+54,7,OptimalAction,Dots,Survival,False,Unconfident,32.802,10
+54,3,OptimalAction,EnergyPill,Dots,False,Confident,9.079,9
+54,0,OptimalAction,Survival,LoseALife,False,Unconfident,12.33,11
+54,5,OptimalAction,LoseALife,LoseALife,True,Confident,11.02,8
+55,16,DatasetSimilarity,Dots,Dots,True,Neutral,23.006,2
+55,11,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,25.466,0
+55,18,DatasetSimilarity,Survival,Survival,True,Confident,17.777,1
+55,3,DatasetSimilarity,LoseALife,LoseALife,True,Neutral,17.143,3
+55,14,TemporalDecomposition,Dots,Survival,False,Confident,12.735,13
+55,10,TemporalDecomposition,EnergyPill,Dots,False,Confident,13.383,12
+55,18,TemporalDecomposition,EnergyPill,LoseALife,False,Confident,7.517,15
+55,11,TemporalDecomposition,Survival,Dots,False,Neutral,9.521,14
+55,10,SARFA,Dots,Survival,False,Neutral,9.245,9
+55,2,SARFA,EnergyPill,Dots,False,Confident,8.703,10
+55,19,SARFA,EnergyPill,LoseALife,False,Neutral,9.217,11
+55,9,SARFA,LoseALife,Survival,False,Unconfident,13.533,8
+55,2,OptimalAction,EnergyPill,Dots,False,Confident,5.537,5
+55,6,OptimalAction,EnergyPill,Survival,False,Neutral,9.126,6
+55,11,OptimalAction,EnergyPill,LoseALife,False,Neutral,16.262,4
+55,19,OptimalAction,Survival,Dots,False,Neutral,14.025,7
+56,3,DatasetSimilarity,EnergyPill,Dots,False,Confident,29.476,0
+56,6,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,32.928,3
+56,13,DatasetSimilarity,EnergyPill,Survival,False,Confident,8.553,2
+56,8,DatasetSimilarity,LoseALife,Dots,False,Unconfident,29.038,1
+56,4,TemporalDecomposition,Dots,EnergyPill,False,Very Confident,10.087,7
+56,16,TemporalDecomposition,Dots,Survival,False,Confident,13.706,4
+56,14,TemporalDecomposition,Survival,Dots,False,Neutral,8.574,6
+56,12,TemporalDecomposition,LoseALife,LoseALife,True,Neutral,12.901,5
+56,0,SARFA,Dots,Survival,False,Neutral,28.26,9
+56,16,SARFA,EnergyPill,EnergyPill,True,Neutral,18.902,10
+56,3,SARFA,LoseALife,Dots,False,Confident,11.27,8
+56,5,SARFA,LoseALife,Dots,False,Confident,8.274,11
+56,17,OptimalAction,Dots,Survival,False,Unconfident,14.039,15
+56,19,OptimalAction,EnergyPill,LoseALife,False,Confident,7.17,12
+56,1,OptimalAction,Survival,Dots,False,Unconfident,16.799,14
+56,16,OptimalAction,LoseALife,Survival,False,Confident,9.362,13
+57,3,DatasetSimilarity,Dots,Dots,True,Very Confident,22.816,1
+57,11,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,17.139,3
+57,9,DatasetSimilarity,LoseALife,EnergyPill,False,Very Confident,19.05,0
+57,19,DatasetSimilarity,LoseALife,Survival,False,Very Confident,11.555,2
+57,15,TemporalDecomposition,Dots,EnergyPill,False,Very Confident,11.505,9
+57,3,TemporalDecomposition,Survival,Dots,False,Very Confident,17.971,8
+57,5,TemporalDecomposition,Survival,Dots,False,Very Confident,12.992,10
+57,5,TemporalDecomposition,LoseALife,LoseALife,True,Very Confident,12.999,11
+57,1,SARFA,Dots,Survival,False,Very Confident,26.635,12
+57,7,SARFA,EnergyPill,Survival,False,Confident,17.874,15
+57,10,SARFA,Survival,Dots,False,Confident,22.493,13
+57,17,SARFA,LoseALife,EnergyPill,False,Very Confident,16.533,14
+57,4,OptimalAction,Survival,Survival,True,Confident,23.503,4
+57,6,OptimalAction,Survival,Survival,True,Very Confident,12.694,7
+57,12,OptimalAction,Survival,Survival,True,Very Confident,15.968,5
+57,2,OptimalAction,LoseALife,Dots,False,Very Confident,10.752,6
+58,10,DatasetSimilarity,EnergyPill,Dots,False,Neutral,10.601,11
+58,15,DatasetSimilarity,Survival,Survival,True,Confident,12.073,10
+58,13,DatasetSimilarity,LoseALife,EnergyPill,False,Confident,21.623,8
+58,15,DatasetSimilarity,LoseALife,EnergyPill,False,Confident,13.791,9
+58,6,TemporalDecomposition,Dots,EnergyPill,False,Confident,49.914,0
+58,7,TemporalDecomposition,Dots,Dots,True,Neutral,17.028,2
+58,9,TemporalDecomposition,Dots,Dots,True,Confident,16.285,1
+58,18,TemporalDecomposition,EnergyPill,Survival,False,Confident,14.98,3
+58,9,SARFA,Dots,EnergyPill,False,Neutral,14.997,6
+58,0,SARFA,EnergyPill,Survival,False,Unconfident,11.057,7
+58,17,SARFA,Survival,Dots,False,Unconfident,22.296,4
+58,16,SARFA,LoseALife,Dots,False,Confident,9.87,5
+58,17,OptimalAction,EnergyPill,Dots,False,Neutral,14.195,12
+58,0,OptimalAction,Survival,Survival,True,Neutral,13.349,14
+58,16,OptimalAction,Survival,Survival,True,Unconfident,11.801,15
+58,11,OptimalAction,LoseALife,Survival,False,Neutral,13.238,13
+59,6,DatasetSimilarity,Dots,Dots,True,Confident,11.908,14
+59,18,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,14.761,15
+59,13,DatasetSimilarity,LoseALife,EnergyPill,False,Confident,14.403,13
+59,15,DatasetSimilarity,LoseALife,EnergyPill,False,Confident,19.035,12
+59,11,TemporalDecomposition,Survival,Dots,False,Confident,22.958,5
+59,8,TemporalDecomposition,LoseALife,LoseALife,True,Confident,19.761,4
+59,10,TemporalDecomposition,LoseALife,EnergyPill,False,Neutral,14.398,6
+59,11,TemporalDecomposition,LoseALife,Survival,False,Confident,7.331,7
+59,14,SARFA,Dots,LoseALife,False,Unconfident,91.738,3
+59,1,SARFA,EnergyPill,Survival,False,Unconfident,17.525,1
+59,13,SARFA,EnergyPill,Survival,False,Neutral,76.763,0
+59,0,SARFA,LoseALife,EnergyPill,False,Unconfident,11.117,2
+59,9,OptimalAction,Dots,Dots,True,Neutral,11.641,11
+59,15,OptimalAction,EnergyPill,EnergyPill,True,Confident,17.415,9
+59,10,OptimalAction,Survival,Dots,False,Unconfident,17.729,10
+59,16,OptimalAction,Survival,Survival,True,Confident,23.146,8
+60,10,DatasetSimilarity,Dots,EnergyPill,False,Confident,26.003,0
+60,0,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,29.29,1
+60,15,DatasetSimilarity,Survival,Survival,True,Confident,12.222,3
+60,4,DatasetSimilarity,LoseALife,EnergyPill,False,Confident,22.503,2
+60,2,TemporalDecomposition,EnergyPill,LoseALife,False,Neutral,13.724,14
+60,15,TemporalDecomposition,EnergyPill,EnergyPill,True,Neutral,25.44,12
+60,12,TemporalDecomposition,LoseALife,Dots,False,Confident,17.628,13
+60,19,TemporalDecomposition,LoseALife,Dots,False,Neutral,18.929,15
+60,1,SARFA,Dots,Dots,True,Unconfident,12.931,6
+60,12,SARFA,Dots,Survival,False,Unconfident,38.3,7
+60,1,SARFA,EnergyPill,Survival,False,Unconfident,25.501,5
+60,12,SARFA,Survival,Dots,False,Unconfident,30.041,4
+60,1,OptimalAction,EnergyPill,Dots,False,Neutral,12.158,9
+60,12,OptimalAction,EnergyPill,EnergyPill,True,Neutral,27.616,8
+60,4,OptimalAction,Survival,LoseALife,False,Neutral,16.471,11
+60,7,OptimalAction,Survival,EnergyPill,False,Neutral,13.686,10
+62,1,DatasetSimilarity,Dots,Dots,True,Neutral,12.959,7
+62,5,DatasetSimilarity,Dots,EnergyPill,False,Neutral,11.37,6
+62,4,DatasetSimilarity,Survival,Survival,True,Confident,9.951,4
+62,14,DatasetSimilarity,LoseALife,LoseALife,True,Very Unconfident,24.509,5
+62,0,TemporalDecomposition,EnergyPill,Dots,False,Neutral,14.184,3
+62,5,TemporalDecomposition,EnergyPill,EnergyPill,True,Neutral,8.114,2
+62,12,TemporalDecomposition,EnergyPill,Survival,False,Unconfident,5.562,1
+62,5,TemporalDecomposition,Survival,Dots,False,Unconfident,38.061,0
+62,2,SARFA,EnergyPill,Survival,False,Neutral,13.002,10
+62,8,SARFA,EnergyPill,Dots,False,Unconfident,18.941,8
+62,19,SARFA,EnergyPill,Survival,False,Neutral,28.899,11
+62,9,SARFA,LoseALife,Dots,False,Confident,7.666,9
+62,8,OptimalAction,EnergyPill,LoseALife,False,Very Confident,10.665,12
+62,15,OptimalAction,EnergyPill,Survival,False,Confident,15.086,13
+62,17,OptimalAction,Survival,EnergyPill,False,Confident,8.815,14
+62,7,OptimalAction,LoseALife,Dots,False,Confident,8.653,15
+63,6,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,8.53,15
+63,11,DatasetSimilarity,EnergyPill,EnergyPill,True,Very Confident,15.655,12
+63,7,DatasetSimilarity,Survival,Survival,True,Confident,9.011,14
+63,10,DatasetSimilarity,Survival,Survival,True,Confident,8.301,13
+63,2,TemporalDecomposition,Dots,EnergyPill,False,Neutral,6.575,10
+63,8,TemporalDecomposition,Dots,Survival,False,Unconfident,10.284,11
+63,1,TemporalDecomposition,Survival,Survival,True,Unconfident,12.559,9
+63,10,TemporalDecomposition,Survival,Dots,False,Neutral,22.237,8
+63,18,SARFA,EnergyPill,Dots,False,Very Confident,9.992,2
+63,4,SARFA,Survival,EnergyPill,False,Confident,27.056,0
+63,8,SARFA,Survival,EnergyPill,False,Very Confident,7.251,3
+63,11,SARFA,Survival,LoseALife,False,Neutral,14.878,1
+63,0,OptimalAction,Survival,LoseALife,False,Neutral,17.679,6
+63,12,OptimalAction,Survival,Dots,False,Confident,6.3,7
+63,5,OptimalAction,LoseALife,Survival,False,Confident,8.852,4
+63,13,OptimalAction,LoseALife,LoseALife,True,Confident,14.074,5
+64,14,DatasetSimilarity,Dots,Dots,True,Confident,10.713,6
+64,5,DatasetSimilarity,EnergyPill,EnergyPill,True,Neutral,29.431,4
+64,14,DatasetSimilarity,EnergyPill,Dots,False,Neutral,14.856,5
+64,9,DatasetSimilarity,LoseALife,LoseALife,True,Confident,15.43,7
+64,3,TemporalDecomposition,Dots,Survival,False,Neutral,9.988,11
+64,13,TemporalDecomposition,Dots,Dots,True,Confident,21.823,9
+64,11,TemporalDecomposition,EnergyPill,EnergyPill,True,Neutral,10.454,10
+64,10,TemporalDecomposition,LoseALife,LoseALife,True,Neutral,19.714,8
+64,3,SARFA,Dots,LoseALife,False,Unconfident,21.637,2
+64,18,SARFA,EnergyPill,EnergyPill,True,Confident,13.942,1
+64,0,SARFA,Survival,Dots,False,Very Confident,9.879,3
+64,8,SARFA,LoseALife,Dots,False,Confident,19.2,0
+64,2,OptimalAction,EnergyPill,Dots,False,Neutral,9.981,14
+64,7,OptimalAction,EnergyPill,Dots,False,Confident,13.408,13
+64,2,OptimalAction,Survival,Survival,True,Neutral,11.426,12
+64,14,OptimalAction,LoseALife,EnergyPill,False,Unconfident,11.179,15
+65,11,DatasetSimilarity,EnergyPill,EnergyPill,True,Very Confident,16.771,5
+65,19,DatasetSimilarity,EnergyPill,EnergyPill,True,Very Confident,10.171,6
+65,17,DatasetSimilarity,Survival,Survival,True,Very Confident,16.39,4
+65,1,DatasetSimilarity,LoseALife,LoseALife,True,Very Confident,9.831,7
+65,6,TemporalDecomposition,EnergyPill,Dots,False,Very Confident,9.537,2
+65,11,TemporalDecomposition,Survival,Survival,True,Unconfident,51.17,0
+65,15,TemporalDecomposition,LoseALife,LoseALife,True,Very Confident,19.364,1
+65,16,TemporalDecomposition,LoseALife,EnergyPill,False,Unconfident,10.625,3
+65,15,SARFA,EnergyPill,LoseALife,False,Very Confident,10.601,12
+65,18,SARFA,EnergyPill,Dots,False,Very Confident,8.065,13
+65,1,SARFA,Survival,Dots,False,Very Confident,10.099,15
+65,9,SARFA,Survival,Survival,True,Very Confident,7.027,14
+65,15,OptimalAction,Dots,LoseALife,False,Very Confident,13.102,11
+65,7,OptimalAction,EnergyPill,Survival,False,Very Confident,35.918,8
+65,9,OptimalAction,Survival,Dots,False,Unconfident,9.411,9
+65,18,OptimalAction,LoseALife,LoseALife,True,Unconfident,102.935,10
+66,0,DatasetSimilarity,Dots,EnergyPill,False,Very Confident,16.353,11
+66,6,DatasetSimilarity,Dots,Dots,True,Confident,26.655,8
+66,15,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,14.137,10
+66,11,DatasetSimilarity,Survival,Survival,True,Confident,18.483,9
+66,14,TemporalDecomposition,Dots,Dots,True,Very Unconfident,16.645,12
+66,6,TemporalDecomposition,Survival,Dots,False,Unconfident,11.165,13
+66,11,TemporalDecomposition,LoseALife,LoseALife,True,Neutral,13.372,14
+66,17,TemporalDecomposition,LoseALife,LoseALife,True,Neutral,13.407,15
+66,0,SARFA,Dots,LoseALife,False,Confident,19.559,1
+66,8,SARFA,EnergyPill,EnergyPill,True,Confident,17.746,3
+66,14,SARFA,EnergyPill,Dots,False,Neutral,20.203,2
+66,12,SARFA,Survival,EnergyPill,False,Unconfident,46.344,0
+66,11,OptimalAction,Dots,EnergyPill,False,Confident,14.534,7
+66,4,OptimalAction,EnergyPill,Dots,False,Confident,28.438,5
+66,15,OptimalAction,EnergyPill,Survival,False,Confident,23.578,6
+66,5,OptimalAction,Survival,Survival,True,Confident,23.658,4
+67,0,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,6.32,7
+67,1,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,10.204,5
+67,10,DatasetSimilarity,Survival,Dots,False,Confident,9.813,6
+67,6,DatasetSimilarity,LoseALife,LoseALife,True,Confident,12.44,4
+67,6,TemporalDecomposition,Dots,Dots,True,Confident,8.068,9
+67,19,TemporalDecomposition,Dots,Dots,True,Confident,6.47,11
+67,4,TemporalDecomposition,EnergyPill,Survival,False,Unconfident,12.168,8
+67,0,TemporalDecomposition,LoseALife,Survival,False,Confident,10.253,10
+67,19,SARFA,Dots,Dots,True,Confident,14.329,2
+67,13,SARFA,EnergyPill,Survival,False,Confident,15.748,1
+67,6,SARFA,Survival,Dots,False,Confident,33.385,0
+67,2,SARFA,LoseALife,Dots,False,Confident,14.072,3
+67,9,OptimalAction,Dots,Dots,True,Confident,9.616,12
+67,11,OptimalAction,Dots,EnergyPill,False,Confident,9.936,14
+67,6,OptimalAction,EnergyPill,Dots,False,Confident,9.154,13
+67,6,OptimalAction,LoseALife,Dots,False,Confident,8.18,15
+68,17,DatasetSimilarity,Dots,Dots,True,Confident,21.43,9
+68,2,DatasetSimilarity,EnergyPill,Dots,False,Neutral,16.745,11
+68,19,DatasetSimilarity,Survival,LoseALife,False,Confident,23.195,10
+68,12,DatasetSimilarity,LoseALife,EnergyPill,False,Neutral,30.236,8
+68,11,TemporalDecomposition,EnergyPill,Dots,False,Confident,33.644,13
+68,17,TemporalDecomposition,EnergyPill,Dots,False,Confident,21.408,15
+68,11,TemporalDecomposition,Survival,Survival,True,Confident,23.908,12
+68,3,TemporalDecomposition,LoseALife,LoseALife,True,Neutral,21.422,14
+68,11,SARFA,Dots,EnergyPill,False,Confident,91.129,0
+68,2,SARFA,LoseALife,Survival,False,Confident,27.311,1
+68,11,SARFA,LoseALife,Dots,False,Confident,27.538,2
+68,14,SARFA,LoseALife,LoseALife,True,Confident,24.073,3
+68,0,OptimalAction,Dots,Survival,False,Confident,24.991,5
+68,8,OptimalAction,EnergyPill,Survival,False,Neutral,29.885,7
+68,2,OptimalAction,Survival,Dots,False,Confident,24.226,6
+68,4,OptimalAction,LoseALife,LoseALife,True,Confident,38.177,4
+69,3,DatasetSimilarity,Dots,LoseALife,False,Confident,16.665,8
+69,4,DatasetSimilarity,Survival,LoseALife,False,Confident,10.243,11
+69,17,DatasetSimilarity,Survival,EnergyPill,False,Confident,15.955,9
+69,3,DatasetSimilarity,LoseALife,LoseALife,True,Confident,9.12,10
+69,0,TemporalDecomposition,EnergyPill,Dots,False,Confident,8.471,14
+69,1,TemporalDecomposition,EnergyPill,Survival,False,Neutral,17,15
+69,3,TemporalDecomposition,Survival,Survival,True,Neutral,18.301,12
+69,7,TemporalDecomposition,Survival,Dots,False,Confident,9.404,13
+69,3,SARFA,EnergyPill,LoseALife,False,Confident,8.905,3
+69,5,SARFA,EnergyPill,EnergyPill,True,Confident,16.307,0
+69,10,SARFA,EnergyPill,EnergyPill,True,Neutral,20.662,2
+69,15,SARFA,LoseALife,Dots,False,Confident,12.731,1
+69,14,OptimalAction,Dots,LoseALife,False,Very Confident,11.246,4
+69,3,OptimalAction,EnergyPill,LoseALife,False,Confident,10.915,7
+69,1,OptimalAction,LoseALife,Dots,False,Confident,13.633,5
+69,17,OptimalAction,LoseALife,Dots,False,Neutral,12.274,6
+70,6,DatasetSimilarity,Survival,Survival,True,Confident,27.312,12
+70,0,DatasetSimilarity,LoseALife,LoseALife,True,Confident,17.324,13
+70,9,DatasetSimilarity,LoseALife,EnergyPill,False,Confident,12.743,14
+70,11,DatasetSimilarity,LoseALife,Survival,False,Confident,9.299,15
+70,0,TemporalDecomposition,Dots,Dots,True,Confident,14.801,3
+70,13,TemporalDecomposition,Dots,Survival,False,Confident,42.304,0
+70,0,TemporalDecomposition,EnergyPill,EnergyPill,True,Confident,16.585,1
+70,18,TemporalDecomposition,LoseALife,LoseALife,True,Confident,10.3,2
+70,4,SARFA,Dots,EnergyPill,False,Confident,31.272,4
+70,12,SARFA,Survival,LoseALife,False,Neutral,11.833,6
+70,17,SARFA,Survival,Dots,False,Confident,20.795,5
+70,6,SARFA,LoseALife,EnergyPill,False,Confident,8.747,7
+70,8,OptimalAction,Dots,Survival,False,Neutral,19.067,11
+70,12,OptimalAction,Dots,Dots,True,Neutral,27.277,9
+70,5,OptimalAction,EnergyPill,Survival,False,Neutral,15.75,8
+70,11,OptimalAction,LoseALife,Survival,False,Confident,9.601,10
+71,13,DatasetSimilarity,EnergyPill,LoseALife,False,Confident,14.004,3
+71,16,DatasetSimilarity,EnergyPill,Dots,False,Unconfident,30.776,2
+71,8,DatasetSimilarity,Survival,LoseALife,False,Confident,11.787,0
+71,19,DatasetSimilarity,LoseALife,LoseALife,True,Confident,32.935,1
+71,7,TemporalDecomposition,Dots,Survival,False,Confident,6.743,10
+71,8,TemporalDecomposition,EnergyPill,Dots,False,Confident,11.529,11
+71,13,TemporalDecomposition,EnergyPill,EnergyPill,True,Unconfident,12.021,9
+71,15,TemporalDecomposition,Survival,Dots,False,Neutral,15.805,8
+71,2,SARFA,Dots,EnergyPill,False,Unconfident,11.303,15
+71,9,SARFA,Dots,Survival,False,Neutral,11.395,12
+71,3,SARFA,EnergyPill,LoseALife,False,Unconfident,6.142,14
+71,3,SARFA,LoseALife,Survival,False,Unconfident,8.76,13
+71,2,OptimalAction,Dots,Survival,False,Neutral,11.654,5
+71,5,OptimalAction,Survival,Survival,True,Confident,30.408,7
+71,17,OptimalAction,Survival,Survival,True,Confident,16.76,4
+71,2,OptimalAction,LoseALife,Dots,False,Unconfident,11.081,6
+72,2,DatasetSimilarity,Dots,EnergyPill,False,Confident,22.561,13
+72,7,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,10.431,14
+72,16,DatasetSimilarity,LoseALife,EnergyPill,False,Confident,16.126,15
+72,17,DatasetSimilarity,LoseALife,EnergyPill,False,Confident,15.798,12
+72,17,TemporalDecomposition,Dots,Survival,False,Neutral,13.031,7
+72,1,TemporalDecomposition,EnergyPill,LoseALife,False,Unconfident,26.19,5
+72,2,TemporalDecomposition,EnergyPill,Dots,False,Unconfident,36.002,4
+72,19,TemporalDecomposition,EnergyPill,EnergyPill,True,Neutral,12.526,6
+72,16,SARFA,Dots,Dots,True,Neutral,25.163,2
+72,5,SARFA,Survival,EnergyPill,False,Confident,38.124,1
+72,7,SARFA,Survival,Survival,True,Confident,11.494,3
+72,5,SARFA,LoseALife,Dots,False,Confident,28.566,0
+72,18,OptimalAction,Dots,LoseALife,False,Neutral,19.11,8
+72,15,OptimalAction,Survival,Dots,False,Neutral,15.003,10
+72,13,OptimalAction,LoseALife,LoseALife,True,Neutral,11.495,9
+72,17,OptimalAction,LoseALife,LoseALife,True,Confident,14.086,11
+73,1,DatasetSimilarity,EnergyPill,EnergyPill,True,Very Confident,28.095,8
+73,12,DatasetSimilarity,EnergyPill,Survival,False,Confident,28.116,9
+73,14,DatasetSimilarity,Survival,Survival,True,Very Confident,35.56,10
+73,19,DatasetSimilarity,Survival,EnergyPill,False,Confident,23.627,11
+73,12,TemporalDecomposition,EnergyPill,Survival,False,Very Confident,13.435,7
+73,1,TemporalDecomposition,LoseALife,Dots,False,Confident,12.898,6
+73,11,TemporalDecomposition,LoseALife,LoseALife,True,Confident,20.056,5
+73,16,TemporalDecomposition,LoseALife,Survival,False,Confident,33.829,4
+73,17,SARFA,Dots,Dots,True,Confident,17.512,12
+73,11,SARFA,EnergyPill,EnergyPill,True,Very Confident,17.525,14
+73,12,SARFA,EnergyPill,Survival,False,Confident,17.427,13
+73,0,SARFA,LoseALife,Dots,False,Very Confident,6.829,15
+73,4,OptimalAction,Dots,Dots,True,Confident,42.48,3
+73,12,OptimalAction,Dots,Survival,False,Confident,29.991,0
+73,19,OptimalAction,Dots,Dots,True,Confident,12.148,2
+73,18,OptimalAction,LoseALife,Survival,False,Confident,23.831,1
+74,12,DatasetSimilarity,Dots,Dots,True,Neutral,30.349,13
+74,14,DatasetSimilarity,Dots,Dots,True,Neutral,18.954,14
+74,18,DatasetSimilarity,Dots,Survival,False,Very Confident,28.901,15
+74,15,DatasetSimilarity,EnergyPill,EnergyPill,True,Very Confident,15.32,12
+74,18,TemporalDecomposition,Dots,Survival,False,Neutral,24.287,4
+74,17,TemporalDecomposition,EnergyPill,EnergyPill,True,Unconfident,20.459,5
+74,19,TemporalDecomposition,EnergyPill,EnergyPill,True,Neutral,13.461,6
+74,16,TemporalDecomposition,Survival,Dots,False,Confident,16.339,7
+74,1,SARFA,Dots,Survival,False,Confident,14.608,1
+74,9,SARFA,Dots,LoseALife,False,Very Confident,11.667,3
+74,19,SARFA,Dots,Dots,True,Very Confident,16.39,0
+74,10,SARFA,LoseALife,LoseALife,True,Very Confident,9.383,2
+74,3,OptimalAction,Dots,Dots,True,Very Unconfident,20.412,11
+74,7,OptimalAction,Dots,Survival,False,Neutral,65.095,9
+74,3,OptimalAction,LoseALife,EnergyPill,False,Confident,12.864,8
+74,14,OptimalAction,LoseALife,EnergyPill,False,Unconfident,13.887,10
+75,8,DatasetSimilarity,Dots,EnergyPill,False,Confident,8.345,13
+75,2,DatasetSimilarity,Survival,Survival,True,Confident,21.82,14
+75,6,DatasetSimilarity,LoseALife,LoseALife,True,Confident,17.925,12
+75,8,DatasetSimilarity,LoseALife,Survival,False,Confident,12.947,15
+75,9,TemporalDecomposition,EnergyPill,EnergyPill,True,Neutral,7.545,11
+75,12,TemporalDecomposition,Survival,EnergyPill,False,Neutral,22.981,8
+75,11,TemporalDecomposition,LoseALife,LoseALife,True,Confident,20.6,9
+75,14,TemporalDecomposition,LoseALife,EnergyPill,False,Neutral,12.34,10
+75,14,SARFA,Dots,EnergyPill,False,Confident,10.971,6
+75,15,SARFA,Dots,EnergyPill,False,Very Confident,20.292,4
+75,0,SARFA,EnergyPill,Dots,False,Neutral,24.901,5
+75,1,SARFA,LoseALife,EnergyPill,False,Confident,16.343,7
+75,13,OptimalAction,Dots,LoseALife,False,Confident,26.623,2
+75,15,OptimalAction,Dots,Dots,True,Unconfident,25.069,3
+75,18,OptimalAction,Dots,EnergyPill,False,Neutral,33.001,0
+75,16,OptimalAction,EnergyPill,Dots,False,Neutral,26.079,1
+76,13,DatasetSimilarity,Dots,Dots,True,Confident,10.533,6
+76,19,DatasetSimilarity,Dots,Dots,True,Confident,9.501,4
+76,0,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,13.018,7
+76,14,DatasetSimilarity,EnergyPill,LoseALife,False,Confident,15.318,5
+76,8,TemporalDecomposition,Dots,LoseALife,False,Neutral,17.166,2
+76,0,TemporalDecomposition,Survival,EnergyPill,False,Unconfident,36.105,0
+76,3,TemporalDecomposition,Survival,Survival,True,Confident,8.755,3
+76,6,TemporalDecomposition,Survival,EnergyPill,False,Unconfident,11.173,1
+76,5,SARFA,Dots,EnergyPill,False,Confident,13.101,13
+76,2,SARFA,Survival,EnergyPill,False,Confident,18.532,12
+76,2,SARFA,LoseALife,Dots,False,Confident,9.658,14
+76,19,SARFA,LoseALife,EnergyPill,False,Confident,6.3,15
+76,3,OptimalAction,EnergyPill,Survival,False,Confident,15.501,8
+76,12,OptimalAction,EnergyPill,Survival,False,Confident,10.918,10
+76,12,OptimalAction,Survival,EnergyPill,False,Confident,13.4,9
+76,19,OptimalAction,Survival,Dots,False,Confident,13.193,11
+77,12,DatasetSimilarity,Dots,EnergyPill,False,Neutral,8.432,6
+77,13,DatasetSimilarity,Dots,EnergyPill,False,Confident,75.201,5
+77,4,DatasetSimilarity,EnergyPill,Survival,False,Neutral,10.34,4
+77,7,DatasetSimilarity,LoseALife,EnergyPill,False,Neutral,13.797,7
+77,2,TemporalDecomposition,EnergyPill,LoseALife,False,Unconfident,12.115,2
+77,7,TemporalDecomposition,Survival,LoseALife,False,Neutral,12.091,1
+77,6,TemporalDecomposition,LoseALife,Dots,False,Neutral,25.475,3
+77,16,TemporalDecomposition,LoseALife,Survival,False,Neutral,25.3,0
+77,3,SARFA,Dots,LoseALife,False,Neutral,2.59,13
+77,6,SARFA,Dots,EnergyPill,False,Neutral,11.7,15
+77,7,SARFA,Survival,Survival,True,Neutral,7.159,14
+77,16,SARFA,LoseALife,Dots,False,Neutral,11.945,12
+77,0,OptimalAction,Dots,Survival,False,Neutral,18.431,9
+77,7,OptimalAction,Dots,Dots,True,Neutral,8.3,11
+77,13,OptimalAction,Survival,Survival,True,Neutral,10.498,10
+77,15,OptimalAction,LoseALife,Survival,False,Neutral,10.852,8
+78,15,DatasetSimilarity,Dots,EnergyPill,False,Unconfident,22.538,4
+78,3,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,22.187,7
+78,6,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,12.194,6
+78,18,DatasetSimilarity,LoseALife,LoseALife,True,Confident,19.271,5
+78,2,TemporalDecomposition,Dots,Dots,True,Confident,15.871,10
+78,7,TemporalDecomposition,EnergyPill,Dots,False,Very Unconfident,17.198,9
+78,14,TemporalDecomposition,EnergyPill,EnergyPill,True,Confident,16.69,11
+78,2,TemporalDecomposition,Survival,Dots,False,Neutral,20.701,8
+78,17,SARFA,EnergyPill,LoseALife,False,Neutral,19.743,3
+78,3,SARFA,Survival,Survival,True,Confident,18.868,1
+78,9,SARFA,Survival,EnergyPill,False,Neutral,19.523,2
+78,16,SARFA,LoseALife,Dots,False,Unconfident,47.834,0
+78,6,OptimalAction,Dots,Survival,False,Very Unconfident,32.085,12
+78,9,OptimalAction,Survival,Dots,False,Confident,15.176,13
+78,2,OptimalAction,LoseALife,Dots,False,Neutral,18.225,14
+78,18,OptimalAction,LoseALife,EnergyPill,False,Unconfident,20.744,15
+79,5,DatasetSimilarity,Dots,Dots,True,Confident,22.971,4
+79,8,DatasetSimilarity,Survival,Survival,True,Very Confident,16.1,5
+79,18,DatasetSimilarity,Survival,Survival,True,Very Confident,13.152,7
+79,19,DatasetSimilarity,LoseALife,EnergyPill,False,Confident,12.728,6
+79,0,TemporalDecomposition,Dots,Survival,False,Unconfident,17.876,14
+79,5,TemporalDecomposition,Dots,Dots,True,Very Unconfident,15.789,12
+79,11,TemporalDecomposition,Dots,EnergyPill,False,Unconfident,12.897,15
+79,18,TemporalDecomposition,Survival,Dots,False,Very Unconfident,8.925,13
+79,6,SARFA,EnergyPill,LoseALife,False,Confident,7.475,11
+79,9,SARFA,EnergyPill,LoseALife,False,Confident,8.458,9
+79,6,SARFA,Survival,LoseALife,False,Neutral,8.057,10
+79,12,SARFA,Survival,EnergyPill,False,Neutral,26.834,8
+79,2,OptimalAction,EnergyPill,Dots,False,Confident,11.123,1
+79,6,OptimalAction,EnergyPill,Survival,False,Very Confident,16.089,0
+79,11,OptimalAction,EnergyPill,LoseALife,False,Confident,20.116,3
+79,19,OptimalAction,Survival,Survival,True,Confident,19.471,2
+80,4,DatasetSimilarity,Dots,Dots,True,Confident,18.882,9
+80,10,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,21.101,11
+80,12,DatasetSimilarity,Survival,LoseALife,False,Neutral,26.686,10
+80,7,DatasetSimilarity,LoseALife,EnergyPill,False,Confident,37.2,8
+80,16,TemporalDecomposition,Dots,LoseALife,False,Unconfident,12.16,14
+80,1,TemporalDecomposition,Survival,Survival,True,Unconfident,17.263,15
+80,16,TemporalDecomposition,Survival,Survival,True,Unconfident,14.627,13
+80,17,TemporalDecomposition,Survival,EnergyPill,False,Unconfident,44.934,12
+80,11,SARFA,Dots,Survival,False,Unconfident,35.489,2
+80,5,SARFA,EnergyPill,LoseALife,False,Confident,22.381,1
+80,7,SARFA,EnergyPill,Dots,False,Unconfident,18.001,3
+80,14,SARFA,Survival,EnergyPill,False,Confident,32.543,0
+80,16,OptimalAction,EnergyPill,Dots,False,Confident,35.761,5
+80,6,OptimalAction,Survival,LoseALife,False,Confident,25.001,6
+80,14,OptimalAction,Survival,EnergyPill,False,Neutral,30.594,4
+80,15,OptimalAction,Survival,EnergyPill,False,Unconfident,29.24,7
+81,13,DatasetSimilarity,Dots,EnergyPill,False,Confident,23.658,1
+81,17,DatasetSimilarity,Dots,Dots,True,Confident,31.25,2
+81,12,DatasetSimilarity,EnergyPill,Dots,False,Confident,22.393,3
+81,14,DatasetSimilarity,LoseALife,Survival,False,Neutral,58.573,0
+81,10,TemporalDecomposition,EnergyPill,LoseALife,False,Confident,23.938,13
+81,4,TemporalDecomposition,Survival,EnergyPill,False,Confident,40.563,14
+81,9,TemporalDecomposition,Survival,EnergyPill,False,Confident,53.572,12
+81,4,TemporalDecomposition,LoseALife,Survival,False,Neutral,18.516,15
+81,14,SARFA,Dots,Dots,True,Confident,23.891,6
+81,4,SARFA,EnergyPill,EnergyPill,True,Neutral,16.5,7
+81,5,SARFA,Survival,Survival,True,Confident,49.331,4
+81,19,SARFA,LoseALife,LoseALife,True,Confident,23.564,5
+81,8,OptimalAction,Dots,Dots,True,Confident,30.312,9
+81,13,OptimalAction,Dots,Dots,True,Neutral,37.402,8
+81,10,OptimalAction,EnergyPill,LoseALife,False,Neutral,16.768,10
+81,11,OptimalAction,EnergyPill,EnergyPill,True,Confident,15.862,11
+82,8,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,8.353,15
+82,9,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,9.328,13
+82,11,DatasetSimilarity,Survival,Dots,False,Confident,9.451,12
+82,8,DatasetSimilarity,LoseALife,LoseALife,True,Confident,13.96,14
+82,16,TemporalDecomposition,EnergyPill,LoseALife,False,Confident,6.21,11
+82,5,TemporalDecomposition,Survival,Dots,False,Neutral,8.511,10
+82,5,TemporalDecomposition,LoseALife,Survival,False,Unconfident,13.952,9
+82,6,TemporalDecomposition,LoseALife,Survival,False,Unconfident,22.727,8
+82,10,SARFA,EnergyPill,Dots,False,Confident,14.656,7
+82,17,SARFA,Survival,Dots,False,Very Confident,18.745,4
+82,5,SARFA,LoseALife,LoseALife,True,Confident,24.443,5
+82,18,SARFA,LoseALife,Dots,False,Unconfident,20.512,6
+82,17,OptimalAction,EnergyPill,LoseALife,False,Confident,79.5,1
+82,3,OptimalAction,Survival,Survival,True,Unconfident,37.105,2
+82,15,OptimalAction,LoseALife,Dots,False,Confident,16.105,0
+82,19,OptimalAction,LoseALife,Dots,False,Neutral,20.17,3
+83,16,DatasetSimilarity,Dots,Dots,True,Very Confident,16.625,8
+83,5,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,15.982,11
+83,5,DatasetSimilarity,Survival,Survival,True,Confident,18.67,9
+83,11,DatasetSimilarity,Survival,Survival,True,Unconfident,20.375,10
+83,17,TemporalDecomposition,Survival,Dots,False,Unconfident,57.76,2
+83,1,TemporalDecomposition,LoseALife,EnergyPill,False,Neutral,54.001,1
+83,2,TemporalDecomposition,LoseALife,LoseALife,True,Very Confident,34.202,0
+83,14,TemporalDecomposition,LoseALife,LoseALife,True,Confident,14.559,3
+83,8,SARFA,Dots,EnergyPill,False,Unconfident,21.079,6
+83,13,SARFA,Dots,LoseALife,False,Unconfident,21.401,5
+83,17,SARFA,EnergyPill,EnergyPill,True,Confident,28.001,4
+83,7,SARFA,LoseALife,Dots,False,Confident,12.595,7
+83,16,OptimalAction,Dots,Survival,False,Confident,6.93,13
+83,19,OptimalAction,Dots,Dots,True,Unconfident,19.215,15
+83,0,OptimalAction,EnergyPill,Survival,False,Confident,14.545,14
+83,3,OptimalAction,LoseALife,Dots,False,Confident,11.669,12
+84,13,DatasetSimilarity,EnergyPill,Survival,False,Confident,34.028,12
+84,19,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,16.728,13
+84,4,DatasetSimilarity,LoseALife,EnergyPill,False,Confident,32.911,15
+84,5,DatasetSimilarity,LoseALife,Survival,False,Confident,17.097,14
+84,12,TemporalDecomposition,Dots,EnergyPill,False,Neutral,34.483,4
+84,0,TemporalDecomposition,Survival,Dots,False,Neutral,24.154,6
+84,17,TemporalDecomposition,Survival,EnergyPill,False,Confident,22.903,7
+84,8,TemporalDecomposition,LoseALife,LoseALife,True,Confident,18.588,5
+84,19,SARFA,Dots,Dots,True,Neutral,36.191,10
+84,11,SARFA,Survival,LoseALife,False,Confident,30.087,9
+84,16,SARFA,Survival,Survival,True,Confident,20.829,8
+84,4,SARFA,LoseALife,Survival,False,Confident,30.238,11
+84,8,OptimalAction,EnergyPill,LoseALife,False,Confident,18.051,3
+84,2,OptimalAction,Survival,Survival,True,Confident,30.842,0
+84,3,OptimalAction,Survival,Survival,True,Confident,24.15,1
+84,4,OptimalAction,LoseALife,LoseALife,True,Confident,16.323,2
+85,7,DatasetSimilarity,Dots,Dots,True,Neutral,37.153,6
+85,10,DatasetSimilarity,Dots,Dots,True,Unconfident,53.08,7
+85,2,DatasetSimilarity,LoseALife,Dots,False,Confident,11.427,5
+85,11,DatasetSimilarity,LoseALife,LoseALife,True,Confident,30.696,4
+85,1,TemporalDecomposition,Dots,Dots,True,Confident,19.598,9
+85,5,TemporalDecomposition,EnergyPill,Survival,False,Neutral,42.649,8
+85,8,TemporalDecomposition,Survival,EnergyPill,False,Very Confident,10.515,10
+85,14,TemporalDecomposition,Survival,Dots,False,Very Confident,13.822,11
+85,4,SARFA,Dots,EnergyPill,False,Confident,9.792,1
+85,16,SARFA,Dots,LoseALife,False,Unconfident,12.286,2
+85,18,SARFA,Dots,EnergyPill,False,Neutral,25.853,3
+85,12,SARFA,LoseALife,Dots,False,Confident,23.301,0
+85,19,OptimalAction,Survival,LoseALife,False,Very Confident,17.694,12
+85,5,OptimalAction,LoseALife,LoseALife,True,Neutral,13.203,14
+85,6,OptimalAction,LoseALife,Dots,False,Neutral,10.601,13
+85,12,OptimalAction,LoseALife,LoseALife,True,Neutral,26.693,15
+86,9,DatasetSimilarity,Dots,EnergyPill,False,Very Confident,19.434,14
+86,10,DatasetSimilarity,Dots,EnergyPill,False,Very Confident,21.698,15
+86,3,DatasetSimilarity,Survival,Survival,True,Very Confident,30.639,13
+86,10,DatasetSimilarity,LoseALife,Dots,False,Neutral,37.817,12
+86,12,TemporalDecomposition,Dots,EnergyPill,False,Confident,46.171,5
+86,15,TemporalDecomposition,Dots,Dots,True,Unconfident,71.34,7
+86,8,TemporalDecomposition,Survival,Dots,False,Unconfident,65.906,4
+86,19,TemporalDecomposition,LoseALife,LoseALife,True,Confident,47.336,6
+86,6,SARFA,Dots,Survival,False,Neutral,34.678,1
+86,9,SARFA,Dots,LoseALife,False,Unconfident,53.267,0
+86,10,SARFA,Dots,Dots,True,Confident,36.008,3
+86,8,SARFA,Survival,EnergyPill,False,Very Unconfident,42.649,2
+86,15,OptimalAction,Dots,LoseALife,False,Very Confident,33.317,8
+86,4,OptimalAction,EnergyPill,EnergyPill,True,Unconfident,40.21,11
+86,5,OptimalAction,Survival,Survival,True,Very Confident,28.08,9
+86,8,OptimalAction,LoseALife,LoseALife,True,Confident,40.06,10
+87,0,DatasetSimilarity,Dots,Dots,True,Neutral,21.511,10
+87,11,DatasetSimilarity,Dots,Dots,True,Confident,19.649,9
+87,17,DatasetSimilarity,Dots,LoseALife,False,Unconfident,26.126,11
+87,4,DatasetSimilarity,LoseALife,LoseALife,True,Confident,20.677,8
+87,7,TemporalDecomposition,Survival,EnergyPill,False,Confident,28.598,3
+87,13,TemporalDecomposition,Survival,Survival,True,Neutral,30.516,0
+87,14,TemporalDecomposition,LoseALife,LoseALife,True,Confident,9.289,2
+87,15,TemporalDecomposition,LoseALife,EnergyPill,False,Confident,31.667,1
+87,1,SARFA,Dots,Dots,True,Confident,20.87,12
+87,5,SARFA,Survival,EnergyPill,False,Very Confident,25.427,13
+87,9,SARFA,Survival,Survival,True,Unconfident,29.361,15
+87,1,SARFA,LoseALife,Survival,False,Neutral,16.463,14
+87,8,OptimalAction,Survival,Dots,False,Confident,15.444,7
+87,11,OptimalAction,Survival,Survival,True,Neutral,14.466,6
+87,4,OptimalAction,LoseALife,Dots,False,Confident,9.522,5
+87,5,OptimalAction,LoseALife,LoseALife,True,Very Confident,8.732,4
+88,18,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,20.439,12
+88,13,DatasetSimilarity,Survival,LoseALife,False,Confident,15.475,13
+88,18,DatasetSimilarity,Survival,LoseALife,False,Confident,11.752,14
+88,17,DatasetSimilarity,LoseALife,Dots,False,Neutral,27.721,15
+88,0,TemporalDecomposition,Dots,Survival,False,Unconfident,14.234,9
+88,5,TemporalDecomposition,Dots,Survival,False,Unconfident,21.07,10
+88,11,TemporalDecomposition,Dots,Dots,True,Unconfident,23.175,8
+88,13,TemporalDecomposition,Survival,Survival,True,Unconfident,18.71,11
+88,3,SARFA,EnergyPill,Survival,False,Confident,24.169,2
+88,11,SARFA,EnergyPill,Survival,False,Confident,33.9,3
+88,6,SARFA,Survival,EnergyPill,False,Unconfident,62.639,1
+88,19,SARFA,LoseALife,LoseALife,True,Confident,65.62,0
+88,1,OptimalAction,Dots,LoseALife,False,Neutral,20.998,7
+88,2,OptimalAction,Dots,LoseALife,False,Confident,27.654,4
+88,0,OptimalAction,LoseALife,Survival,False,Confident,16.28,5
+88,7,OptimalAction,LoseALife,Dots,False,Confident,10.548,6
+89,15,DatasetSimilarity,Dots,Dots,True,Confident,16.144,6
+89,3,DatasetSimilarity,EnergyPill,LoseALife,False,Confident,30.289,4
+89,9,DatasetSimilarity,EnergyPill,LoseALife,False,Neutral,12.833,5
+89,1,DatasetSimilarity,Survival,LoseALife,False,Unconfident,32.892,7
+89,12,TemporalDecomposition,Dots,EnergyPill,False,Confident,16.649,3
+89,6,TemporalDecomposition,EnergyPill,EnergyPill,True,Confident,32.068,1
+89,2,TemporalDecomposition,LoseALife,LoseALife,True,Confident,11.455,2
+89,13,TemporalDecomposition,LoseALife,Dots,False,Neutral,33.876,0
+89,19,SARFA,Dots,Dots,True,Neutral,17.103,14
+89,8,SARFA,EnergyPill,LoseALife,False,Unconfident,26.466,12
+89,5,SARFA,LoseALife,Dots,False,Unconfident,9.888,15
+89,18,SARFA,LoseALife,EnergyPill,False,Confident,12.745,13
+89,11,OptimalAction,Dots,LoseALife,False,Unconfident,17.5,8
+89,16,OptimalAction,Dots,LoseALife,False,Very Confident,7.104,11
+89,8,OptimalAction,EnergyPill,Dots,False,Unconfident,14.502,9
+89,11,OptimalAction,EnergyPill,Survival,False,Unconfident,17.597,10
+90,8,DatasetSimilarity,EnergyPill,EnergyPill,True,Neutral,22.643,5
+90,9,DatasetSimilarity,EnergyPill,EnergyPill,True,Neutral,24.019,4
+90,0,DatasetSimilarity,Survival,Survival,True,Neutral,31.824,6
+90,12,DatasetSimilarity,Survival,LoseALife,False,Neutral,20.932,7
+90,2,TemporalDecomposition,Survival,EnergyPill,False,Neutral,9.666,15
+90,3,TemporalDecomposition,Survival,Dots,False,Neutral,72.862,13
+90,16,TemporalDecomposition,Survival,EnergyPill,False,Neutral,15.512,12
+90,10,TemporalDecomposition,LoseALife,Survival,False,Neutral,9.882,14
+90,16,SARFA,Dots,Dots,True,Unconfident,14.623,9
+90,0,SARFA,Survival,LoseALife,False,Unconfident,8.895,11
+90,3,SARFA,Survival,EnergyPill,False,Unconfident,29.071,8
+90,11,SARFA,LoseALife,Survival,False,Unconfident,112.493,10
+90,12,OptimalAction,EnergyPill,EnergyPill,True,Neutral,35.105,0
+90,14,OptimalAction,Survival,Dots,False,Neutral,22.957,1
+90,0,OptimalAction,LoseALife,Survival,False,Neutral,20.994,2
+90,11,OptimalAction,LoseALife,Survival,False,Neutral,20.892,3
+91,13,DatasetSimilarity,Dots,LoseALife,False,Confident,8.272,14
+91,6,DatasetSimilarity,EnergyPill,LoseALife,False,Neutral,11.083,13
+91,14,DatasetSimilarity,EnergyPill,Survival,False,Neutral,10.517,12
+91,8,DatasetSimilarity,Survival,LoseALife,False,Neutral,11.765,15
+91,7,TemporalDecomposition,Dots,EnergyPill,False,Neutral,10.855,3
+91,8,TemporalDecomposition,Survival,Dots,False,Neutral,12.791,2
+91,12,TemporalDecomposition,Survival,EnergyPill,False,Neutral,19.575,0
+91,3,TemporalDecomposition,LoseALife,LoseALife,True,Neutral,17.169,1
+91,4,SARFA,Dots,Dots,True,Neutral,7.834,11
+91,12,SARFA,Dots,LoseALife,False,Neutral,10.683,10
+91,1,SARFA,EnergyPill,Survival,False,Neutral,9.286,9
+91,4,SARFA,Survival,Survival,True,Neutral,20.821,8
+91,3,OptimalAction,Dots,EnergyPill,False,Confident,15.374,4
+91,4,OptimalAction,Survival,Dots,False,Neutral,12.332,7
+91,10,OptimalAction,Survival,LoseALife,False,Neutral,16.264,6
+91,19,OptimalAction,LoseALife,Survival,False,Neutral,15.19,5
+92,2,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,12.762,9
+92,4,DatasetSimilarity,EnergyPill,Survival,False,Confident,19.458,10
+92,8,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,22.177,8
+92,1,DatasetSimilarity,LoseALife,Survival,False,Confident,11.758,11
+92,0,TemporalDecomposition,Dots,Survival,False,Confident,18.14,6
+92,19,TemporalDecomposition,Dots,EnergyPill,False,Neutral,10.914,7
+92,5,TemporalDecomposition,EnergyPill,EnergyPill,True,Confident,19.798,5
+92,13,TemporalDecomposition,LoseALife,EnergyPill,False,Confident,144.578,4
+92,4,SARFA,EnergyPill,Survival,False,Confident,19.202,15
+92,1,SARFA,Survival,Dots,False,Confident,19.829,13
+92,10,SARFA,Survival,Dots,False,Very Confident,22.751,12
+92,12,SARFA,LoseALife,Survival,False,Confident,9.08,14
+92,11,OptimalAction,Dots,Survival,False,Confident,34.863,1
+92,13,OptimalAction,EnergyPill,Dots,False,Confident,13.048,2
+92,12,OptimalAction,Survival,Survival,True,Confident,23.544,3
+92,14,OptimalAction,LoseALife,EnergyPill,False,Confident,30.147,0
+93,7,DatasetSimilarity,EnergyPill,EnergyPill,True,Unconfident,10.623,13
+93,0,DatasetSimilarity,Survival,LoseALife,False,Unconfident,16.663,15
+93,1,DatasetSimilarity,Survival,Survival,True,Very Unconfident,12.467,14
+93,14,DatasetSimilarity,LoseALife,LoseALife,True,Unconfident,10.307,12
+93,9,TemporalDecomposition,Dots,Survival,False,Unconfident,39.164,4
+93,10,TemporalDecomposition,Dots,Survival,False,Very Unconfident,14.864,7
+93,12,TemporalDecomposition,EnergyPill,EnergyPill,True,Very Unconfident,25.817,5
+93,10,TemporalDecomposition,Survival,EnergyPill,False,Unconfident,16.516,6
+93,5,SARFA,Dots,LoseALife,False,Very Unconfident,38.455,8
+93,9,SARFA,Dots,LoseALife,False,Very Unconfident,14.37,9
+93,3,SARFA,EnergyPill,Survival,False,Unconfident,12.895,10
+93,10,SARFA,LoseALife,Dots,False,Unconfident,19.631,11
+93,14,OptimalAction,Dots,LoseALife,False,Unconfident,22.833,3
+93,5,OptimalAction,EnergyPill,EnergyPill,True,Very Unconfident,21.243,2
+93,14,OptimalAction,EnergyPill,Dots,False,Unconfident,13.904,0
+93,1,OptimalAction,LoseALife,Survival,False,Unconfident,55.694,1
+94,14,DatasetSimilarity,Dots,Dots,True,Confident,9.907,10
+94,18,DatasetSimilarity,Dots,Dots,True,Neutral,11.52,11
+94,11,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,13.191,8
+94,12,DatasetSimilarity,EnergyPill,Dots,False,Neutral,16.466,9
+94,1,TemporalDecomposition,Dots,EnergyPill,False,Neutral,19.66,15
+94,6,TemporalDecomposition,EnergyPill,LoseALife,False,Very Unconfident,24.87,14
+94,16,TemporalDecomposition,EnergyPill,Survival,False,Neutral,14.687,13
+94,4,TemporalDecomposition,LoseALife,Dots,False,Confident,15.197,12
+94,16,SARFA,Survival,LoseALife,False,Unconfident,17.902,1
+94,10,SARFA,LoseALife,Survival,False,Unconfident,12.024,3
+94,13,SARFA,LoseALife,EnergyPill,False,Neutral,31.915,0
+94,18,SARFA,LoseALife,EnergyPill,False,Unconfident,18.911,2
+94,5,OptimalAction,Dots,Dots,True,Neutral,14.464,5
+94,0,OptimalAction,LoseALife,Dots,False,Confident,14.364,6
+94,8,OptimalAction,LoseALife,LoseALife,True,Confident,9.032,7
+94,18,OptimalAction,LoseALife,Survival,False,Unconfident,31.423,4
+95,9,DatasetSimilarity,Dots,EnergyPill,False,Confident,28.79,3
+95,9,DatasetSimilarity,Survival,EnergyPill,False,Confident,42.79,2
+95,18,DatasetSimilarity,Survival,Survival,True,Confident,39.522,0
+95,10,DatasetSimilarity,LoseALife,Survival,False,Confident,43.703,1
+95,7,TemporalDecomposition,Dots,Dots,True,Unconfident,18.605,15
+95,15,TemporalDecomposition,Dots,Survival,False,Unconfident,42.917,14
+95,1,TemporalDecomposition,LoseALife,LoseALife,True,Unconfident,46.627,12
+95,15,TemporalDecomposition,LoseALife,LoseALife,True,Unconfident,23.105,13
+95,10,SARFA,Dots,Dots,True,Unconfident,30.807,6
+95,11,SARFA,Dots,LoseALife,False,Unconfident,55.29,4
+95,8,SARFA,Survival,LoseALife,False,Neutral,23.598,7
+95,14,SARFA,LoseALife,Dots,False,Unconfident,39.572,5
+95,5,OptimalAction,Dots,Survival,False,Confident,32.017,10
+95,12,OptimalAction,Dots,Dots,True,Neutral,16.581,11
+95,14,OptimalAction,Survival,EnergyPill,False,Confident,23.491,9
+95,10,OptimalAction,LoseALife,LoseALife,True,Confident,29.412,8
+96,17,DatasetSimilarity,Dots,EnergyPill,False,Neutral,25.666,8
+96,16,DatasetSimilarity,Survival,EnergyPill,False,Neutral,28.064,10
+96,5,DatasetSimilarity,LoseALife,LoseALife,True,Neutral,11.486,11
+96,7,DatasetSimilarity,LoseALife,EnergyPill,False,Neutral,17.311,9
+96,17,TemporalDecomposition,Dots,EnergyPill,False,Unconfident,19.244,13
+96,19,TemporalDecomposition,Dots,Dots,True,Unconfident,50.563,12
+96,11,TemporalDecomposition,Survival,Survival,True,Unconfident,18.455,15
+96,17,TemporalDecomposition,Survival,Dots,False,Unconfident,52.703,14
+96,0,SARFA,Dots,Survival,False,Neutral,12.726,7
+96,5,SARFA,Survival,Survival,True,Neutral,14.286,4
+96,8,SARFA,LoseALife,Survival,False,Neutral,16.489,5
+96,13,SARFA,LoseALife,Survival,False,Neutral,19.756,6
+96,17,OptimalAction,Dots,Survival,False,Neutral,15.926,3
+96,19,OptimalAction,EnergyPill,EnergyPill,True,Neutral,22.157,0
+96,1,OptimalAction,Survival,Dots,False,Neutral,41.605,1
+96,16,OptimalAction,LoseALife,Dots,False,Neutral,23.716,2
+97,4,DatasetSimilarity,Dots,EnergyPill,False,Confident,13.749,10
+97,9,DatasetSimilarity,Dots,Dots,True,Very Confident,13.5,8
+97,2,DatasetSimilarity,EnergyPill,EnergyPill,True,Very Confident,11.301,9
+97,10,DatasetSimilarity,Survival,Survival,True,Confident,13.386,11
+97,8,TemporalDecomposition,Dots,Survival,False,Confident,93.449,7
+97,15,TemporalDecomposition,Dots,Dots,True,Confident,32.431,4
+97,17,TemporalDecomposition,Dots,LoseALife,False,Very Confident,20.434,6
+97,16,TemporalDecomposition,LoseALife,Survival,False,Unconfident,62.931,5
+97,13,SARFA,Dots,LoseALife,False,Neutral,27.768,3
+97,10,SARFA,Survival,Dots,False,Confident,23.074,0
+97,9,SARFA,LoseALife,EnergyPill,False,Neutral,213.702,1
+97,11,SARFA,LoseALife,Survival,False,Confident,33.765,2
+97,14,OptimalAction,Dots,Survival,False,Confident,5.65,15
+97,18,OptimalAction,Dots,LoseALife,False,Confident,17.545,14
+97,4,OptimalAction,EnergyPill,EnergyPill,True,Confident,13.571,12
+97,9,OptimalAction,Survival,Survival,True,Confident,8.701,13
+98,13,DatasetSimilarity,Survival,EnergyPill,False,Confident,34.471,10
+98,15,DatasetSimilarity,Survival,Survival,True,Confident,12.398,9
+98,0,DatasetSimilarity,LoseALife,EnergyPill,False,Confident,15.419,11
+98,12,DatasetSimilarity,LoseALife,LoseALife,True,Confident,19.983,8
+98,3,TemporalDecomposition,Dots,EnergyPill,False,Neutral,30.414,12
+98,18,TemporalDecomposition,Dots,Dots,True,Neutral,6.934,13
+98,18,TemporalDecomposition,LoseALife,LoseALife,True,Neutral,11.04,14
+98,19,TemporalDecomposition,LoseALife,Survival,False,Neutral,16.677,15
+98,13,SARFA,EnergyPill,LoseALife,False,Confident,22.279,4
+98,14,SARFA,EnergyPill,Survival,False,Neutral,25.591,6
+98,16,SARFA,EnergyPill,Dots,False,Neutral,16.452,7
+98,18,SARFA,Survival,EnergyPill,False,Neutral,24.522,5
+98,6,OptimalAction,Dots,EnergyPill,False,Neutral,19.446,1
+98,19,OptimalAction,Dots,Dots,True,Neutral,45.865,0
+98,14,OptimalAction,EnergyPill,Dots,False,Neutral,28.201,2
+98,11,OptimalAction,Survival,LoseALife,False,Confident,10.662,3
+99,1,DatasetSimilarity,Dots,EnergyPill,False,Neutral,23.106,2
+99,10,DatasetSimilarity,Dots,Dots,True,Neutral,21.293,1
+99,16,DatasetSimilarity,Survival,Survival,True,Unconfident,10.05,3
+99,2,DatasetSimilarity,LoseALife,LoseALife,True,Neutral,28.154,0
+99,13,TemporalDecomposition,EnergyPill,Survival,False,Unconfident,12.675,10
+99,19,TemporalDecomposition,EnergyPill,EnergyPill,True,Confident,10.352,11
+99,19,TemporalDecomposition,Survival,Dots,False,Neutral,15.188,8
+99,17,TemporalDecomposition,LoseALife,LoseALife,True,Confident,13.494,9
+99,2,SARFA,EnergyPill,Survival,False,Neutral,14.302,15
+99,12,SARFA,EnergyPill,Dots,False,Unconfident,10.212,13
+99,16,SARFA,EnergyPill,Dots,False,Unconfident,7.457,14
+99,0,SARFA,Survival,Survival,True,Neutral,16.805,12
+99,6,OptimalAction,Dots,Dots,True,Very Unconfident,13.697,5
+99,10,OptimalAction,EnergyPill,LoseALife,False,Very Unconfident,11.307,7
+99,2,OptimalAction,Survival,Dots,False,Unconfident,20.61,4
+99,13,OptimalAction,LoseALife,LoseALife,True,Confident,6.884,6
+100,1,DatasetSimilarity,Dots,EnergyPill,False,Very Confident,19.661,15
+100,8,DatasetSimilarity,Dots,EnergyPill,False,Very Confident,36.645,13
+100,10,DatasetSimilarity,EnergyPill,LoseALife,False,Very Confident,18.586,14
+100,16,DatasetSimilarity,EnergyPill,EnergyPill,True,Very Confident,19.913,12
+100,5,TemporalDecomposition,Dots,Dots,True,Confident,50.054,1
+100,14,TemporalDecomposition,EnergyPill,Survival,False,Confident,47.811,0
+100,2,TemporalDecomposition,LoseALife,EnergyPill,False,Confident,24.191,3
+100,19,TemporalDecomposition,LoseALife,Survival,False,Confident,29.184,2
+100,4,SARFA,EnergyPill,EnergyPill,True,Very Confident,38.19,9
+100,13,SARFA,Survival,Dots,False,Very Confident,28.659,8
+100,15,SARFA,Survival,EnergyPill,False,Very Confident,37.075,10
+100,15,SARFA,LoseALife,Survival,False,Very Confident,130.66,11
+100,4,OptimalAction,Dots,LoseALife,False,Very Confident,22.25,5
+100,13,OptimalAction,EnergyPill,Dots,False,Very Confident,14.868,6
+100,16,OptimalAction,EnergyPill,Survival,False,Very Confident,24.027,4
+100,12,OptimalAction,LoseALife,EnergyPill,False,Very Confident,26.568,7
+101,11,DatasetSimilarity,Dots,EnergyPill,False,Confident,33.594,1
+101,16,DatasetSimilarity,Dots,Dots,True,Neutral,47.447,0
+101,7,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,25.956,3
+101,13,DatasetSimilarity,Survival,Survival,True,Neutral,33.849,2
+101,8,TemporalDecomposition,Dots,EnergyPill,False,Unconfident,32.624,6
+101,18,TemporalDecomposition,EnergyPill,Dots,False,Unconfident,30.795,7
+101,19,TemporalDecomposition,Survival,EnergyPill,False,Neutral,19.195,5
+101,1,TemporalDecomposition,LoseALife,Survival,False,Unconfident,35.249,4
+101,8,SARFA,Survival,EnergyPill,False,Neutral,58.012,15
+101,17,SARFA,Survival,EnergyPill,False,Neutral,25.761,13
+101,3,SARFA,LoseALife,LoseALife,True,Neutral,12.531,14
+101,14,SARFA,LoseALife,Dots,False,Neutral,26.573,12
+101,13,OptimalAction,Dots,Survival,False,Neutral,11.063,10
+101,15,OptimalAction,Dots,LoseALife,False,Unconfident,27.886,11
+101,6,OptimalAction,Survival,Survival,True,Neutral,29.148,8
+101,7,OptimalAction,Survival,Survival,True,Neutral,30.515,9
+102,12,DatasetSimilarity,EnergyPill,EnergyPill,True,Neutral,56.068,0
+102,18,DatasetSimilarity,EnergyPill,EnergyPill,True,Neutral,29.107,3
+102,0,DatasetSimilarity,Survival,LoseALife,False,Neutral,49.901,2
+102,7,DatasetSimilarity,Survival,Survival,True,Neutral,34.027,1
+102,3,TemporalDecomposition,EnergyPill,Survival,False,Neutral,39.142,5
+102,19,TemporalDecomposition,EnergyPill,Dots,False,Neutral,36.501,7
+102,8,TemporalDecomposition,LoseALife,LoseALife,True,Neutral,37.996,6
+102,9,TemporalDecomposition,LoseALife,LoseALife,True,Unconfident,50.997,4
+102,7,SARFA,Dots,Survival,False,Neutral,35.187,8
+102,5,SARFA,EnergyPill,Survival,False,Neutral,30.039,10
+102,14,SARFA,Survival,EnergyPill,False,Unconfident,37.888,9
+102,6,SARFA,LoseALife,Survival,False,Neutral,41.345,11
+102,1,OptimalAction,Dots,Survival,False,Neutral,26.394,14
+102,10,OptimalAction,Dots,Dots,True,Confident,29.183,13
+102,0,OptimalAction,Survival,Survival,True,Neutral,20.065,15
+102,18,OptimalAction,Survival,Survival,True,Neutral,29.398,12
+103,2,DatasetSimilarity,Survival,Dots,False,Unconfident,29.588,0
+103,3,DatasetSimilarity,LoseALife,Survival,False,Unconfident,16.875,3
+103,5,DatasetSimilarity,LoseALife,Dots,False,Neutral,23.922,2
+103,16,DatasetSimilarity,LoseALife,EnergyPill,False,Unconfident,15.94,1
+103,4,TemporalDecomposition,Dots,Dots,True,Very Unconfident,4.833,10
+103,5,TemporalDecomposition,Survival,Survival,True,Very Unconfident,123.085,11
+103,5,TemporalDecomposition,LoseALife,EnergyPill,False,Unconfident,3.624,9
+103,10,TemporalDecomposition,LoseALife,Survival,False,Unconfident,4.785,8
+103,18,SARFA,Dots,LoseALife,False,Very Unconfident,4.491,15
+103,19,SARFA,Survival,Dots,False,Neutral,168.552,13
+103,10,SARFA,LoseALife,LoseALife,True,Very Unconfident,5.48,14
+103,12,SARFA,LoseALife,Survival,False,Confident,24.26,12
+103,9,OptimalAction,EnergyPill,Survival,False,Neutral,55.058,5
+103,18,OptimalAction,EnergyPill,LoseALife,False,Unconfident,31.059,7
+103,18,OptimalAction,Survival,LoseALife,False,Confident,15.446,4
+103,9,OptimalAction,LoseALife,LoseALife,True,Neutral,10.532,6
+104,2,DatasetSimilarity,Dots,EnergyPill,False,Confident,15.954,6
+104,3,DatasetSimilarity,Survival,Survival,True,Confident,13.053,5
+104,14,DatasetSimilarity,Survival,LoseALife,False,Confident,27.793,4
+104,15,DatasetSimilarity,LoseALife,EnergyPill,False,Confident,13.747,7
+104,7,TemporalDecomposition,Dots,Survival,False,Neutral,25.501,3
+104,1,TemporalDecomposition,EnergyPill,Survival,False,Confident,13.197,2
+104,13,TemporalDecomposition,EnergyPill,EnergyPill,True,Confident,15.763,1
+104,2,TemporalDecomposition,LoseALife,Dots,False,Confident,33.237,0
+104,17,SARFA,Dots,Dots,True,Unconfident,6.9,9
+104,0,SARFA,EnergyPill,Survival,False,Unconfident,22.64,8
+104,13,SARFA,EnergyPill,EnergyPill,True,Unconfident,8.901,11
+104,0,SARFA,LoseALife,EnergyPill,False,Unconfident,7.378,10
+104,3,OptimalAction,EnergyPill,Survival,False,Confident,23.167,12
+104,6,OptimalAction,EnergyPill,Dots,False,Confident,14.924,14
+104,14,OptimalAction,EnergyPill,Dots,False,Confident,16.5,15
+104,3,OptimalAction,LoseALife,Survival,False,Confident,9.5,13
+105,16,DatasetSimilarity,EnergyPill,EnergyPill,True,Very Confident,19.022,8
+105,3,DatasetSimilarity,Survival,Survival,True,Confident,32.949,9
+105,9,DatasetSimilarity,Survival,Survival,True,Confident,31.353,11
+105,14,DatasetSimilarity,LoseALife,Survival,False,Unconfident,111.72,10
+105,10,TemporalDecomposition,Dots,Survival,False,Confident,49.475,14
+105,0,TemporalDecomposition,Survival,Survival,True,Confident,18.708,15
+105,10,TemporalDecomposition,Survival,Dots,False,Very Confident,11.274,13
+105,7,TemporalDecomposition,LoseALife,Survival,False,Very Confident,21.641,12
+105,5,SARFA,Dots,Dots,True,Confident,35.974,5
+105,10,SARFA,Dots,Dots,True,Confident,26.75,4
+105,13,SARFA,LoseALife,Survival,False,Confident,63.365,7
+105,17,SARFA,LoseALife,LoseALife,True,Neutral,51.812,6
+105,10,OptimalAction,Dots,LoseALife,False,Confident,20.68,2
+105,5,OptimalAction,Survival,Survival,True,Confident,22.719,0
+105,11,OptimalAction,Survival,Survival,True,Neutral,29.059,1
+105,1,OptimalAction,LoseALife,Dots,False,Very Confident,17.001,3
+106,4,DatasetSimilarity,Dots,EnergyPill,False,Neutral,62.275,0
+106,1,DatasetSimilarity,EnergyPill,EnergyPill,True,Unconfident,52.48,2
+106,5,DatasetSimilarity,EnergyPill,EnergyPill,True,Neutral,41.133,1
+106,18,DatasetSimilarity,LoseALife,LoseALife,True,Very Unconfident,74.631,3
+106,13,TemporalDecomposition,Dots,EnergyPill,False,Very Unconfident,41.412,9
+106,0,TemporalDecomposition,Survival,Survival,True,Very Unconfident,22.9,11
+106,7,TemporalDecomposition,LoseALife,LoseALife,True,Very Unconfident,57.963,10
+106,15,TemporalDecomposition,LoseALife,LoseALife,True,Very Unconfident,82.552,8
+106,14,SARFA,Dots,Survival,False,Unconfident,93.686,12
+106,9,SARFA,EnergyPill,Dots,False,Unconfident,40.395,15
+106,15,SARFA,EnergyPill,Survival,False,Unconfident,28.331,13
+106,11,SARFA,LoseALife,Dots,False,Very Unconfident,46.079,14
+106,10,OptimalAction,Dots,LoseALife,False,Unconfident,19.869,7
+106,1,OptimalAction,EnergyPill,Survival,False,Neutral,28.182,4
+106,3,OptimalAction,Survival,Survival,True,Neutral,17.09,6
+106,6,OptimalAction,Survival,Survival,True,Confident,13.593,5
+107,2,DatasetSimilarity,EnergyPill,Dots,False,Confident,21.16,0
+107,9,DatasetSimilarity,Survival,Survival,True,Confident,15.609,2
+107,6,DatasetSimilarity,LoseALife,EnergyPill,False,Neutral,27.717,1
+107,13,DatasetSimilarity,LoseALife,Survival,False,Confident,13.352,3
+107,8,TemporalDecomposition,EnergyPill,LoseALife,False,Neutral,8.085,12
+107,1,TemporalDecomposition,Survival,EnergyPill,False,Neutral,4.431,15
+107,4,TemporalDecomposition,Survival,Dots,False,Neutral,65.546,13
+107,3,TemporalDecomposition,LoseALife,LoseALife,True,Unconfident,9.989,14
+107,13,SARFA,Survival,EnergyPill,False,Neutral,82.278,4
+107,14,SARFA,Survival,Survival,True,Neutral,20.454,5
+107,8,SARFA,LoseALife,EnergyPill,False,Neutral,9.206,7
+107,14,SARFA,LoseALife,Dots,False,Neutral,15.965,6
+107,2,OptimalAction,Dots,Survival,False,Confident,7.327,9
+107,9,OptimalAction,Dots,Survival,False,Confident,9.651,8
+107,1,OptimalAction,EnergyPill,EnergyPill,True,Confident,15.309,10
+107,10,OptimalAction,LoseALife,LoseALife,True,Neutral,24.144,11
+108,17,DatasetSimilarity,EnergyPill,EnergyPill,True,Very Confident,13.029,3
+108,4,DatasetSimilarity,Survival,Dots,False,Confident,20.873,1
+108,5,DatasetSimilarity,Survival,EnergyPill,False,Confident,37.25,0
+108,15,DatasetSimilarity,Survival,Dots,False,Confident,9.246,2
+108,9,TemporalDecomposition,Dots,EnergyPill,False,Neutral,12.5,9
+108,14,TemporalDecomposition,Dots,EnergyPill,False,Confident,9.278,11
+108,14,TemporalDecomposition,EnergyPill,EnergyPill,True,Confident,13.442,10
+108,15,TemporalDecomposition,Survival,LoseALife,False,Confident,13.657,8
+108,7,SARFA,Dots,Dots,True,Confident,9.924,13
+108,6,SARFA,EnergyPill,Dots,False,Confident,8.542,15
+108,8,SARFA,LoseALife,LoseALife,True,Neutral,12.614,14
+108,17,SARFA,LoseALife,Survival,False,Confident,18.012,12
+108,1,OptimalAction,LoseALife,Dots,False,Confident,15.224,5
+108,11,OptimalAction,LoseALife,LoseALife,True,Confident,13.683,7
+108,14,OptimalAction,LoseALife,EnergyPill,False,Very Confident,11.947,4
+108,17,OptimalAction,LoseALife,LoseALife,True,Neutral,12.094,6
+109,16,DatasetSimilarity,Dots,Dots,True,Very Confident,13.801,3
+109,17,DatasetSimilarity,EnergyPill,EnergyPill,True,Neutral,26.973,2
+109,6,DatasetSimilarity,Survival,Survival,True,Neutral,54.678,0
+109,18,DatasetSimilarity,LoseALife,LoseALife,True,Neutral,25.826,1
+109,2,TemporalDecomposition,Dots,EnergyPill,False,Confident,34.124,6
+109,4,TemporalDecomposition,Dots,Dots,True,Confident,47.762,4
+109,12,TemporalDecomposition,Survival,Survival,True,Neutral,48.218,7
+109,0,TemporalDecomposition,LoseALife,LoseALife,True,Confident,22.404,5
+109,8,SARFA,Dots,Survival,False,Neutral,34.828,10
+109,11,SARFA,Dots,EnergyPill,False,Neutral,46.292,9
+109,2,SARFA,Survival,Dots,False,Confident,23.157,8
+109,7,SARFA,Survival,Survival,True,Unconfident,29.802,11
+109,5,OptimalAction,EnergyPill,EnergyPill,True,Neutral,21.22,15
+109,19,OptimalAction,EnergyPill,LoseALife,False,Confident,23.385,14
+109,14,OptimalAction,Survival,Dots,False,Neutral,19.734,13
+109,19,OptimalAction,LoseALife,Survival,False,Neutral,35.038,12
+110,2,DatasetSimilarity,Dots,Dots,True,Very Confident,65.878,4
+110,6,DatasetSimilarity,Dots,Dots,True,Confident,20.13,5
+110,0,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,68.921,7
+110,9,DatasetSimilarity,Survival,Survival,True,Neutral,29.545,6
+110,3,TemporalDecomposition,EnergyPill,EnergyPill,True,Confident,5.701,15
+110,15,TemporalDecomposition,EnergyPill,Survival,False,Confident,12.417,14
+110,9,TemporalDecomposition,Survival,Dots,False,Neutral,38.006,12
+110,16,TemporalDecomposition,LoseALife,Survival,False,Confident,20.251,13
+110,3,SARFA,Dots,Survival,False,Confident,24.777,8
+110,5,SARFA,EnergyPill,Survival,False,Confident,6.645,11
+110,10,SARFA,EnergyPill,Dots,False,Confident,24.114,10
+110,11,SARFA,EnergyPill,EnergyPill,True,Confident,9.521,9
+110,2,OptimalAction,Dots,Survival,False,Neutral,11.128,2
+110,14,OptimalAction,Dots,LoseALife,False,Confident,22.027,1
+110,16,OptimalAction,Dots,Survival,False,Neutral,25.424,3
+110,16,OptimalAction,Survival,Survival,True,Confident,56.67,0
+111,7,DatasetSimilarity,Dots,EnergyPill,False,Very Confident,25.896,14
+111,19,DatasetSimilarity,EnergyPill,Survival,False,Very Confident,75.068,13
+111,7,DatasetSimilarity,Survival,Survival,True,Very Confident,39.915,15
+111,0,DatasetSimilarity,LoseALife,EnergyPill,False,Very Confident,35.041,12
+111,16,TemporalDecomposition,Dots,Survival,False,Very Confident,51.079,6
+111,1,TemporalDecomposition,EnergyPill,EnergyPill,True,Neutral,99.016,7
+111,18,TemporalDecomposition,Survival,EnergyPill,False,Confident,59.801,5
+111,2,TemporalDecomposition,LoseALife,Survival,False,Confident,84.344,4
+111,6,SARFA,Dots,LoseALife,False,Very Confident,33.37,10
+111,3,SARFA,Survival,Survival,True,Very Confident,15.694,11
+111,19,SARFA,Survival,Survival,True,Very Confident,27.867,9
+111,19,SARFA,LoseALife,LoseALife,True,Very Confident,59.622,8
+111,2,OptimalAction,EnergyPill,EnergyPill,True,Very Confident,34.894,3
+111,17,OptimalAction,EnergyPill,Dots,False,Confident,77.394,0
+111,18,OptimalAction,EnergyPill,LoseALife,False,Very Confident,51.163,1
+111,15,OptimalAction,Survival,EnergyPill,False,Very Confident,56.44,2
+112,12,DatasetSimilarity,Dots,EnergyPill,False,Very Confident,19.638,12
+112,1,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,40.685,14
+112,13,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,22.5,13
+112,13,DatasetSimilarity,LoseALife,EnergyPill,False,Confident,34.799,15
+112,7,TemporalDecomposition,EnergyPill,Survival,False,Confident,93.501,10
+112,9,TemporalDecomposition,EnergyPill,Survival,False,Very Confident,76.377,8
+112,17,TemporalDecomposition,EnergyPill,EnergyPill,True,Confident,27.12,9
+112,7,TemporalDecomposition,Survival,Survival,True,Confident,25.227,11
+112,14,SARFA,Survival,Dots,False,Very Confident,16.357,1
+112,2,SARFA,LoseALife,Survival,False,Confident,37.245,2
+112,7,SARFA,LoseALife,LoseALife,True,Very Confident,15.564,3
+112,16,SARFA,LoseALife,Dots,False,Confident,16.505,0
+112,8,OptimalAction,Dots,Survival,False,Very Confident,13.104,7
+112,7,OptimalAction,EnergyPill,Dots,False,Confident,22.649,5
+112,4,OptimalAction,Survival,Survival,True,Confident,54.834,4
+112,15,OptimalAction,LoseALife,Dots,False,Very Confident,10.736,6
+113,15,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,20.933,4
+113,6,DatasetSimilarity,Survival,Survival,True,Neutral,72.718,7
+113,12,DatasetSimilarity,Survival,LoseALife,False,Very Confident,38.797,5
+113,6,DatasetSimilarity,LoseALife,LoseALife,True,Very Confident,15.302,6
+113,13,TemporalDecomposition,Dots,Survival,False,Neutral,71.841,13
+113,8,TemporalDecomposition,Survival,Survival,True,Confident,9.601,12
+113,13,TemporalDecomposition,Survival,Dots,False,Neutral,17.701,14
+113,14,TemporalDecomposition,Survival,Dots,False,Very Confident,7.868,15
+113,16,SARFA,Dots,Dots,True,Neutral,55.218,3
+113,14,SARFA,EnergyPill,Dots,False,Confident,21.347,1
+113,17,SARFA,EnergyPill,Survival,False,Confident,46.274,0
+113,18,SARFA,Survival,EnergyPill,False,Very Confident,27.877,2
+113,12,OptimalAction,Dots,Survival,False,Neutral,14.377,9
+113,19,OptimalAction,Dots,LoseALife,False,Confident,15.754,10
+113,4,OptimalAction,LoseALife,LoseALife,True,Very Confident,9.426,8
+113,9,OptimalAction,LoseALife,LoseALife,True,Very Confident,17.452,11
+114,14,DatasetSimilarity,Survival,Survival,True,Confident,72.048,3
+114,1,DatasetSimilarity,LoseALife,LoseALife,True,Very Confident,46.494,0
+114,3,DatasetSimilarity,LoseALife,EnergyPill,False,Confident,22.833,1
+114,19,DatasetSimilarity,LoseALife,LoseALife,True,Confident,123.136,2
+114,11,TemporalDecomposition,EnergyPill,Survival,False,Confident,35.447,6
+114,6,TemporalDecomposition,LoseALife,Survival,False,Confident,94.202,4
+114,13,TemporalDecomposition,LoseALife,LoseALife,True,Confident,24.745,7
+114,18,TemporalDecomposition,LoseALife,EnergyPill,False,Confident,63.363,5
+114,4,SARFA,Dots,EnergyPill,False,Confident,34.2,13
+114,7,SARFA,EnergyPill,Dots,False,Confident,50.387,12
+114,4,SARFA,Survival,EnergyPill,False,Confident,35.68,14
+114,13,SARFA,LoseALife,Survival,False,Confident,49.908,15
+114,4,OptimalAction,Dots,Survival,False,Confident,24.208,8
+114,0,OptimalAction,EnergyPill,EnergyPill,True,Confident,29.598,11
+114,8,OptimalAction,Survival,Survival,True,Confident,41.037,9
+114,16,OptimalAction,Survival,LoseALife,False,Confident,18.321,10
+117,0,DatasetSimilarity,Dots,EnergyPill,False,Confident,11.054,11
+117,19,DatasetSimilarity,Dots,Dots,True,Confident,7.2,9
+117,3,DatasetSimilarity,EnergyPill,Survival,False,Confident,11.852,8
+117,11,DatasetSimilarity,LoseALife,Survival,False,Confident,24.781,10
+117,18,TemporalDecomposition,Dots,EnergyPill,False,Confident,9.41,5
+117,2,TemporalDecomposition,EnergyPill,Dots,False,Confident,6.178,7
+117,10,TemporalDecomposition,EnergyPill,LoseALife,False,Neutral,14.642,6
+117,12,TemporalDecomposition,EnergyPill,Survival,False,Confident,20.758,4
+117,0,SARFA,Dots,Dots,True,Confident,14.865,2
+117,10,SARFA,Dots,Survival,False,Neutral,13.233,3
+117,13,SARFA,Survival,LoseALife,False,Confident,26.403,1
+117,9,SARFA,LoseALife,Dots,False,Neutral,18.914,0
+117,3,OptimalAction,Dots,Survival,False,Confident,14.12,13
+117,13,OptimalAction,EnergyPill,Dots,False,Confident,6.674,14
+117,3,OptimalAction,Survival,Survival,True,Confident,9.761,15
+117,13,OptimalAction,Survival,Survival,True,Confident,19.252,12
+118,15,DatasetSimilarity,Dots,Survival,False,Neutral,33.801,14
+118,4,DatasetSimilarity,EnergyPill,EnergyPill,True,Confident,31.726,12
+118,17,DatasetSimilarity,Survival,EnergyPill,False,Confident,21.392,13
+118,19,DatasetSimilarity,Survival,Survival,True,Confident,44.335,15
+118,3,TemporalDecomposition,Dots,Survival,False,Very Confident,96.446,4
+118,0,TemporalDecomposition,EnergyPill,Dots,False,Very Confident,9.558,7
+118,12,TemporalDecomposition,LoseALife,LoseALife,True,Very Confident,12.038,6
+118,14,TemporalDecomposition,LoseALife,LoseALife,True,Very Confident,12.379,5
+118,2,SARFA,Dots,EnergyPill,False,Very Confident,36.928,2
+118,12,SARFA,Dots,Dots,True,Confident,50.258,0
+118,19,SARFA,EnergyPill,EnergyPill,True,Neutral,47.05,3
+118,6,SARFA,LoseALife,Survival,False,Confident,31.305,1
+118,16,OptimalAction,EnergyPill,Dots,False,Unconfident,65.513,9
+118,12,OptimalAction,Survival,Survival,True,Neutral,24.105,10
+118,7,OptimalAction,LoseALife,Survival,False,Very Confident,13.558,8
+118,16,OptimalAction,LoseALife,Survival,False,Confident,18.272,11
+119,5,DatasetSimilarity,Dots,EnergyPill,False,Very Confident,20.592,2
+119,2,DatasetSimilarity,LoseALife,EnergyPill,False,Neutral,35.848,3
+119,9,DatasetSimilarity,LoseALife,LoseALife,True,Neutral,31.13,1
+119,12,DatasetSimilarity,LoseALife,LoseALife,True,Confident,25.227,0
+119,12,TemporalDecomposition,Dots,Dots,True,Confident,24.612,7
+119,18,TemporalDecomposition,EnergyPill,EnergyPill,True,Very Confident,24.623,5
+119,8,TemporalDecomposition,LoseALife,LoseALife,True,Very Confident,23.125,6
+119,9,TemporalDecomposition,LoseALife,LoseALife,True,Confident,32.928,4
+119,13,SARFA,Dots,EnergyPill,False,Confident,22.301,15
+119,15,SARFA,Dots,LoseALife,False,Very Confident,18.374,13
+119,1,SARFA,EnergyPill,Dots,False,Confident,20.581,12
+119,15,SARFA,Survival,LoseALife,False,Confident,17.482,14
+119,17,OptimalAction,Dots,EnergyPill,False,Very Confident,27.319,9
+119,9,OptimalAction,EnergyPill,Dots,False,Very Confident,17.997,10
+119,5,OptimalAction,Survival,Survival,True,Very Confident,22.702,8
+119,2,OptimalAction,LoseALife,Dots,False,Confident,17.524,11
+121,2,DatasetSimilarity,Survival,Survival,True,Confident,18.851,10
+121,15,DatasetSimilarity,LoseALife,LoseALife,True,Confident,18.801,11
+121,16,DatasetSimilarity,LoseALife,LoseALife,True,Very Confident,17.927,8
+121,18,DatasetSimilarity,LoseALife,LoseALife,True,Confident,26.428,9
+121,1,TemporalDecomposition,Survival,Dots,False,Confident,8.46,7
+121,4,TemporalDecomposition,Survival,EnergyPill,False,Unconfident,11.148,6
+121,8,TemporalDecomposition,Survival,LoseALife,False,Unconfident,23.913,4
+121,16,TemporalDecomposition,Survival,Dots,False,Neutral,13.994,5
+121,2,SARFA,Dots,EnergyPill,False,Neutral,17.485,1
+121,3,SARFA,Dots,LoseALife,False,Confident,17.242,3
+121,14,SARFA,Dots,Survival,False,Confident,29.342,0
+121,13,SARFA,LoseALife,EnergyPill,False,Very Confident,14.216,2
+121,1,OptimalAction,Dots,Survival,False,Confident,14.946,14
+121,5,OptimalAction,Dots,LoseALife,False,Neutral,13.717,15
+121,9,OptimalAction,Dots,EnergyPill,False,Confident,13.755,13
+121,8,OptimalAction,Survival,LoseALife,False,Confident,22.125,12
+122,8,DatasetSimilarity,Dots,EnergyPill,False,Confident,23.301,14
+122,19,DatasetSimilarity,EnergyPill,EnergyPill,True,Very Confident,11.2,15
+122,12,DatasetSimilarity,LoseALife,LoseALife,True,Confident,19.092,13
+122,17,DatasetSimilarity,LoseALife,LoseALife,True,Very Confident,14.784,12
+122,18,TemporalDecomposition,Dots,EnergyPill,False,Neutral,11.466,7
+122,8,TemporalDecomposition,EnergyPill,LoseALife,False,Very Confident,14.061,6
+122,6,TemporalDecomposition,LoseALife,Survival,False,Confident,18.933,4
+122,19,TemporalDecomposition,LoseALife,LoseALife,True,Very Confident,12.477,5
+122,6,SARFA,Survival,EnergyPill,False,Confident,37.455,1
+122,11,SARFA,Survival,Survival,True,Confident,20.678,2
+122,12,SARFA,Survival,EnergyPill,False,Confident,24.432,3
+122,15,SARFA,LoseALife,LoseALife,True,Very Confident,15.351,0
+122,7,OptimalAction,Dots,Dots,True,Confident,16.533,11
+122,1,OptimalAction,Survival,Survival,True,Very Confident,16.056,10
+122,10,OptimalAction,Survival,LoseALife,False,Confident,14.693,9
+122,11,OptimalAction,Survival,LoseALife,False,Confident,20.469,8

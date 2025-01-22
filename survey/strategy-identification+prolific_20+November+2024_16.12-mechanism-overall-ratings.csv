@@ -1,0 +1,401 @@
+user_id,explanation_mechanism,confidence,ease,understanding,additional_thoughts,survey_mechanism_pos
+16,DatasetSimilarity,Neutral,Somewhat Easy,Neutral,,3
+16,TemporalDecomposition,Confident,Somewhat Easy,Mostly understood,,0
+16,SARFA,Unconfident,Somewhat Difficult,Understood very little,,2
+16,OptimalAction,Neutral,Somewhat Difficult,Neutral,,1
+18,DatasetSimilarity,Very Unconfident,Very Difficult,Did not understand at all,,1
+18,TemporalDecomposition,Neutral,Somewhat Easy,Mostly understood,,0
+18,SARFA,Neutral,Somewhat Difficult,Neutral,,3
+18,OptimalAction,Neutral,Somewhat Easy,Mostly understood,,2
+20,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,,3
+20,TemporalDecomposition,Unconfident,Very Difficult,Did not understand at all,,2
+20,SARFA,Unconfident,Somewhat Difficult,Neutral,,1
+20,OptimalAction,Neutral,Somewhat Easy,Mostly understood,,0
+21,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,,2
+21,TemporalDecomposition,Neutral,Very Difficult,Did not understand at all,,1
+21,SARFA,Neutral,Very Difficult,Did not understand at all,,0
+21,OptimalAction,Neutral,Neutral,Neutral,,3
+22,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,,0
+22,TemporalDecomposition,Very Unconfident,Very Difficult,Did not understand at all,,3
+22,SARFA,Confident,Somewhat Easy,Completely understood,,2
+22,OptimalAction,Unconfident,Somewhat Difficult,Neutral,,1
+23,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,,3
+23,TemporalDecomposition,Unconfident,Very Difficult,Understood very little,,2
+23,SARFA,Confident,Neutral,Mostly understood,,0
+23,OptimalAction,Unconfident,Somewhat Difficult,Neutral,action described wasnt possible,1
+24,DatasetSimilarity,Confident,Somewhat Easy,Neutral,,0
+24,TemporalDecomposition,Unconfident,Neutral,Neutral,,2
+24,SARFA,Unconfident,Neutral,Understood very little,,3
+24,OptimalAction,Neutral,Neutral,Mostly understood,,1
+26,DatasetSimilarity,Neutral,Somewhat Difficult,Neutral,,2
+26,TemporalDecomposition,Unconfident,Somewhat Difficult,Mostly understood,,0
+26,SARFA,Neutral,Neutral,Neutral,,3
+26,OptimalAction,Neutral,Somewhat Difficult,Neutral,,1
+27,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,,1
+27,TemporalDecomposition,Neutral,Neutral,Neutral,,2
+27,SARFA,Neutral,Neutral,Neutral,,3
+27,OptimalAction,Confident,Somewhat Easy,Mostly understood,,0
+28,DatasetSimilarity,Neutral,Somewhat Difficult,Mostly understood,,0
+28,TemporalDecomposition,Confident,Neutral,Mostly understood,,3
+28,SARFA,Neutral,Somewhat Difficult,Mostly understood,,2
+28,OptimalAction,Neutral,Somewhat Difficult,Understood very little,,1
+29,DatasetSimilarity,Neutral,Neutral,Neutral,I think it's a small screen and difficult to see,2
+29,TemporalDecomposition,Neutral,Somewhat Difficult,Neutral,this was more difficult to interpret,1
+29,SARFA,Confident,Neutral,Neutral,the second image was difficult to see with the colours,0
+29,OptimalAction,Neutral,Somewhat Difficult,Neutral,,3
+30,DatasetSimilarity,Neutral,Somewhat Difficult,Understood very little,,0
+30,TemporalDecomposition,Very Unconfident,Very Difficult,Did not understand at all,,2
+30,SARFA,Unconfident,Very Difficult,Understood very little,,3
+30,OptimalAction,Neutral,Somewhat Difficult,Mostly understood,,1
+31,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,none,1
+31,TemporalDecomposition,Neutral,Somewhat Easy,Neutral,none,2
+31,SARFA,Neutral,Neutral,Neutral,,3
+31,OptimalAction,Confident,Neutral,Mostly understood,,0
+32,DatasetSimilarity,Neutral,Neutral,Mostly understood,,2
+32,TemporalDecomposition,Neutral,Neutral,Neutral,,0
+32,SARFA,Neutral,Neutral,Mostly understood,,1
+32,OptimalAction,Neutral,Neutral,Mostly understood,,3
+33,DatasetSimilarity,Neutral,Neutral,Mostly understood,"No ADDITIONAL THOUHTS, THIS IS GREAT OVERALL,",0
+33,TemporalDecomposition,Neutral,Somewhat Difficult,Mostly understood,,3
+33,SARFA,Confident,Somewhat Difficult,Mostly understood,,2
+33,OptimalAction,Neutral,Somewhat Difficult,Mostly understood,,1
+34,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,,3
+34,TemporalDecomposition,Neutral,Somewhat Difficult,Understood very little,,2
+34,SARFA,Neutral,Neutral,Neutral,,1
+34,OptimalAction,Neutral,Neutral,Neutral,,0
+35,DatasetSimilarity,Neutral,Neutral,Understood very little,,1
+35,TemporalDecomposition,Neutral,Somewhat Difficult,Understood very little,,2
+35,SARFA,Neutral,Neutral,Neutral,,3
+35,OptimalAction,Unconfident,Somewhat Difficult,Neutral,,0
+36,DatasetSimilarity,Neutral,Somewhat Difficult,Mostly understood,,3
+36,TemporalDecomposition,Confident,Somewhat Difficult,Mostly understood,,0
+36,SARFA,Confident,Somewhat Easy,Mostly understood,,2
+36,OptimalAction,Neutral,Somewhat Easy,Mostly understood,,1
+37,DatasetSimilarity,Unconfident,Neutral,Completely understood,,3
+37,TemporalDecomposition,Unconfident,Neutral,Completely understood,,1
+37,SARFA,Neutral,Somewhat Easy,Mostly understood,,0
+37,OptimalAction,Neutral,Somewhat Easy,Completely understood,,2
+38,DatasetSimilarity,Neutral,Somewhat Difficult,Neutral,,0
+38,TemporalDecomposition,Neutral,Somewhat Difficult,Understood very little,,3
+38,SARFA,Unconfident,Somewhat Difficult,Understood very little,,1
+38,OptimalAction,Neutral,Neutral,Neutral,,2
+39,DatasetSimilarity,Neutral,Somewhat Difficult,Understood very little,,0
+39,TemporalDecomposition,Very Unconfident,Very Difficult,Did not understand at all,did not really understand,3
+39,SARFA,Unconfident,Somewhat Difficult,Understood very little,found it hard to see the red areas in the first 2 explanations.,2
+39,OptimalAction,Confident,Somewhat Easy,Mostly understood,,1
+40,DatasetSimilarity,Very Confident,Somewhat Easy,Completely understood,,2
+40,TemporalDecomposition,Neutral,Neutral,Understood very little,,3
+40,SARFA,Neutral,Somewhat Difficult,Understood very little,,1
+40,OptimalAction,Confident,Somewhat Easy,Mostly understood,,0
+41,DatasetSimilarity,Neutral,Neutral,Neutral,,3
+41,TemporalDecomposition,Confident,Neutral,Mostly understood,,2
+41,SARFA,Confident,Somewhat Easy,Mostly understood,,0
+41,OptimalAction,Neutral,Neutral,Neutral,,1
+42,DatasetSimilarity,Unconfident,Somewhat Difficult,Understood very little,,3
+42,TemporalDecomposition,Unconfident,Somewhat Difficult,Did not understand at all,,2
+42,SARFA,Unconfident,Somewhat Difficult,Understood very little,,0
+42,OptimalAction,Confident,Somewhat Easy,Mostly understood,,1
+43,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,,0
+43,TemporalDecomposition,Confident,Neutral,Mostly understood,,3
+43,SARFA,Unconfident,Somewhat Difficult,Understood very little,Depending on the position of the ghosts the heat maps could be interpreted in multiple different ways,1
+43,OptimalAction,Neutral,Neutral,Understood very little,,2
+44,DatasetSimilarity,Neutral,Neutral,Mostly understood,,1
+44,TemporalDecomposition,Neutral,Somewhat Difficult,Neutral,,2
+44,SARFA,Neutral,Neutral,Mostly understood,No,0
+44,OptimalAction,Neutral,Somewhat Easy,Neutral,,3
+45,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,,1
+45,TemporalDecomposition,Neutral,Somewhat Easy,Understood very little,,0
+45,SARFA,Unconfident,Somewhat Difficult,Understood very little,,3
+45,OptimalAction,Confident,Somewhat Easy,Mostly understood,,2
+46,DatasetSimilarity,Neutral,Neutral,Neutral,,1
+46,TemporalDecomposition,Neutral,Neutral,Neutral,,0
+46,SARFA,Neutral,Neutral,Neutral,,3
+46,OptimalAction,Confident,Somewhat Easy,Mostly understood,,2
+47,DatasetSimilarity,Neutral,Somewhat Difficult,Neutral,,0
+47,TemporalDecomposition,Very Confident,Somewhat Easy,Mostly understood,,3
+47,SARFA,Unconfident,Somewhat Difficult,Mostly understood,,2
+47,OptimalAction,Unconfident,Somewhat Easy,Mostly understood,,1
+48,DatasetSimilarity,Neutral,Somewhat Difficult,Neutral,,0
+48,TemporalDecomposition,Very Unconfident,Very Difficult,Did not understand at all,,3
+48,SARFA,Unconfident,Somewhat Difficult,Neutral,,1
+48,OptimalAction,Unconfident,Somewhat Difficult,Understood very little,,2
+49,DatasetSimilarity,Very Confident,Very Easy,Completely understood,,1
+49,TemporalDecomposition,Confident,Somewhat Easy,Mostly understood,,0
+49,SARFA,Very Confident,Very Easy,Completely understood,,3
+49,OptimalAction,Very Confident,Very Easy,Completely understood,,2
+50,DatasetSimilarity,Unconfident,Somewhat Difficult,Mostly understood,,1
+50,TemporalDecomposition,Neutral,Somewhat Difficult,Mostly understood,,0
+50,SARFA,Very Unconfident,Somewhat Difficult,Understood very little,,2
+50,OptimalAction,Very Confident,Very Easy,Mostly understood,,3
+51,DatasetSimilarity,Unconfident,Somewhat Difficult,Understood very little,,3
+51,TemporalDecomposition,Confident,Somewhat Easy,Mostly understood,,0
+51,SARFA,Very Unconfident,Somewhat Difficult,Understood very little,,2
+51,OptimalAction,Neutral,Somewhat Easy,Mostly understood,,1
+52,DatasetSimilarity,Confident,Somewhat Difficult,Neutral,,0
+52,TemporalDecomposition,Neutral,Somewhat Easy,Mostly understood,,1
+52,SARFA,Unconfident,Somewhat Difficult,Understood very little,,2
+52,OptimalAction,Neutral,Somewhat Difficult,Neutral,,3
+53,DatasetSimilarity,Very Unconfident,Very Difficult,Did not understand at all,,2
+53,TemporalDecomposition,Very Unconfident,Somewhat Difficult,Understood very little,,3
+53,SARFA,Unconfident,Very Difficult,Understood very little,,0
+53,OptimalAction,Very Unconfident,Very Difficult,Understood very little,,1
+54,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,"Sometimes it seemed like two different agent's strategies could be in play, so I felt like I needed to watch it a few times, as they could arguably overlap.",0
+54,TemporalDecomposition,Neutral,Very Difficult,Mostly understood,This one was more difficult than the others.,3
+54,SARFA,Neutral,Somewhat Difficult,Mostly understood,"Whilst the heat map gives a clue, it was much harder to discern without movement or the wider context.",1
+54,OptimalAction,Neutral,Neutral,Mostly understood,"This was tricky when it suggested directions that would block the agent in, as it pigeon holes you into thinking it would be for self-destruction but it could also be to hide/for survival. It can be hard to tell the difference between the two.",2
+55,DatasetSimilarity,Confident,Somewhat Easy,Neutral,,0
+55,TemporalDecomposition,Confident,Somewhat Easy,Mostly understood,,3
+55,SARFA,Neutral,Neutral,Understood very little,,2
+55,OptimalAction,Neutral,Neutral,Neutral,,1
+56,DatasetSimilarity,Confident,Neutral,Neutral,,0
+56,TemporalDecomposition,Confident,Somewhat Easy,Neutral,,1
+56,SARFA,Confident,Somewhat Easy,Mostly understood,,2
+56,OptimalAction,Unconfident,Neutral,Neutral,,3
+57,DatasetSimilarity,Confident,Somewhat Easy,Completely understood,,0
+57,TemporalDecomposition,Very Confident,Very Easy,Completely understood,,2
+57,SARFA,Confident,Somewhat Easy,Mostly understood,It was harder using this context to ascertain what each agents strategy was given the placement or lack of energy pills in some of the images,3
+57,OptimalAction,Very Confident,Somewhat Easy,Mostly understood,"The only explanation that wasnt helpful was the agent wants to move up when there was a wall in the way, that made it more of a random choice given the context",1
+58,DatasetSimilarity,Neutral,Somewhat Difficult,Neutral,,2
+58,TemporalDecomposition,Confident,Neutral,Mostly understood,,0
+58,SARFA,Unconfident,Somewhat Difficult,Understood very little,,1
+58,OptimalAction,Unconfident,Somewhat Difficult,Understood very little,,3
+59,DatasetSimilarity,Very Confident,Very Easy,Completely understood,,3
+59,TemporalDecomposition,Confident,Neutral,Mostly understood,,1
+59,SARFA,Unconfident,Very Difficult,Neutral,,0
+59,OptimalAction,Neutral,Neutral,Mostly understood,,2
+60,DatasetSimilarity,Confident,Somewhat Difficult,Neutral,,0
+60,TemporalDecomposition,Neutral,Very Difficult,Understood very little,,3
+60,SARFA,Unconfident,Very Difficult,Understood very little,,1
+60,OptimalAction,Neutral,Very Difficult,Mostly understood,,2
+62,DatasetSimilarity,Neutral,Somewhat Difficult,Did not understand at all,Im confused a little ,1
+62,TemporalDecomposition,Unconfident,Neutral,Neutral,it was kinda hard I didn't understand the graph part in relation to the Pacman part ,0
+62,SARFA,Neutral,Neutral,Neutral,better but there could be several answers for some of them I think like the one where the red was on the pacman ,2
+62,OptimalAction,Confident,Somewhat Easy,Mostly understood,this one was the easiest ,3
+63,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,,3
+63,TemporalDecomposition,Very Unconfident,Very Difficult,Understood very little,,2
+63,SARFA,Confident,Neutral,Completely understood,,0
+63,OptimalAction,Neutral,Neutral,Mostly understood,,1
+64,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,,1
+64,TemporalDecomposition,Unconfident,Somewhat Difficult,Understood very little,,2
+64,SARFA,Neutral,Somewhat Difficult,Neutral,,0
+64,OptimalAction,Unconfident,Somewhat Difficult,Understood very little,,3
+65,DatasetSimilarity,Very Confident,Very Easy,Completely understood,,1
+65,TemporalDecomposition,Confident,Somewhat Difficult,Mostly understood,,0
+65,SARFA,Very Confident,Very Easy,Completely understood,,3
+65,OptimalAction,Unconfident,Somewhat Difficult,Mostly understood,,2
+66,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,"This was easier than the pictures, and easier than the word explanations.",2
+66,TemporalDecomposition,Neutral,Somewhat Difficult,Understood very little,I found this difficult to understand,3
+66,SARFA,Neutral,Somewhat Difficult,Mostly understood,It was hard to see in the pictures - if the pictures were bigger I think it may have been easier to understand and see what was happening.,0
+66,OptimalAction,Confident,Somewhat Easy,Mostly understood,This was easier than using the pictures,1
+67,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,,1
+67,TemporalDecomposition,Confident,Neutral,Mostly understood,,2
+67,SARFA,Confident,Somewhat Easy,Mostly understood,,0
+67,OptimalAction,Confident,Somewhat Easy,Mostly understood,,3
+68,DatasetSimilarity,Neutral,Neutral,Mostly understood,,2
+68,TemporalDecomposition,Confident,Neutral,Mostly understood,,3
+68,SARFA,Confident,Neutral,Mostly understood,no,0
+68,OptimalAction,Confident,Neutral,Neutral,no,1
+69,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,,2
+69,TemporalDecomposition,Neutral,Neutral,Neutral,,3
+69,SARFA,Confident,Somewhat Easy,Mostly understood,,0
+69,OptimalAction,Confident,Somewhat Easy,Mostly understood,,1
+70,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,,3
+70,TemporalDecomposition,Confident,Somewhat Easy,Completely understood,,0
+70,SARFA,Confident,Somewhat Difficult,Mostly understood,,1
+70,OptimalAction,Neutral,Somewhat Difficult,Mostly understood,,2
+71,DatasetSimilarity,Confident,Somewhat Easy,Neutral,,0
+71,TemporalDecomposition,Unconfident,Neutral,Understood very little,,2
+71,SARFA,Very Unconfident,Somewhat Difficult,Understood very little,,3
+71,OptimalAction,Unconfident,Somewhat Difficult,Neutral,,1
+72,DatasetSimilarity,Neutral,Somewhat Easy,Neutral,,3
+72,TemporalDecomposition,Unconfident,Somewhat Difficult,Understood very little,,1
+72,SARFA,Neutral,Somewhat Difficult,Neutral,,0
+72,OptimalAction,Unconfident,Somewhat Difficult,Understood very little,,2
+73,DatasetSimilarity,Confident,Somewhat Easy,Completely understood,,2
+73,TemporalDecomposition,Confident,Somewhat Easy,Completely understood,,1
+73,SARFA,Very Confident,Somewhat Easy,Completely understood,,3
+73,OptimalAction,Confident,Neutral,Mostly understood,,0
+74,DatasetSimilarity,Neutral,Neutral,Neutral,,3
+74,TemporalDecomposition,Unconfident,Somewhat Difficult,Neutral,,1
+74,SARFA,Confident,Neutral,Mostly understood,,0
+74,OptimalAction,Very Unconfident,Very Difficult,Understood very little,,2
+75,DatasetSimilarity,Confident,Somewhat Easy,Neutral,,3
+75,TemporalDecomposition,Neutral,Neutral,Neutral,,2
+75,SARFA,Confident,Neutral,Mostly understood,,1
+75,OptimalAction,Neutral,Somewhat Difficult,Understood very little,,0
+76,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,,1
+76,TemporalDecomposition,Unconfident,Somewhat Difficult,Understood very little,,0
+76,SARFA,Confident,Somewhat Easy,Mostly understood,,3
+76,OptimalAction,Confident,Somewhat Easy,Mostly understood,,2
+77,DatasetSimilarity,Neutral,Somewhat Difficult,Mostly understood,,1
+77,TemporalDecomposition,Neutral,Somewhat Difficult,Neutral,,0
+77,SARFA,Neutral,Somewhat Difficult,Mostly understood,,3
+77,OptimalAction,Neutral,Somewhat Difficult,Neutral,,2
+78,DatasetSimilarity,Confident,Neutral,Understood very little,,1
+78,TemporalDecomposition,Neutral,Somewhat Difficult,Neutral,,2
+78,SARFA,Unconfident,Somewhat Difficult,Understood very little,,0
+78,OptimalAction,Unconfident,Very Difficult,Did not understand at all,,3
+79,DatasetSimilarity,Very Confident,Very Easy,Mostly understood,task was written in a confusing way,1
+79,TemporalDecomposition,Very Unconfident,Very Difficult,Did not understand at all,,3
+79,SARFA,Unconfident,Very Difficult,Understood very little,,2
+79,OptimalAction,Confident,Somewhat Easy,Mostly understood,"I think that the terms used in the study were confusing e.g.explanation, strategy.",0
+80,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,,2
+80,TemporalDecomposition,Very Unconfident,Very Difficult,Did not understand at all,,3
+80,SARFA,Unconfident,Somewhat Difficult,Mostly understood,,0
+80,OptimalAction,Unconfident,Somewhat Difficult,Mostly understood,,1
+81,DatasetSimilarity,Neutral,Neutral,Neutral,,0
+81,TemporalDecomposition,Neutral,Neutral,Neutral,,3
+81,SARFA,Neutral,Neutral,Neutral,,1
+81,OptimalAction,Neutral,Neutral,Understood very little,,2
+82,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,,3
+82,TemporalDecomposition,Unconfident,Somewhat Difficult,Understood very little,,2
+82,SARFA,Neutral,Somewhat Easy,Mostly understood,,1
+82,OptimalAction,Neutral,Somewhat Difficult,Mostly understood,,0
+83,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,,2
+83,TemporalDecomposition,Unconfident,Very Difficult,Understood very little,,0
+83,SARFA,Unconfident,Somewhat Difficult,Understood very little,,1
+83,OptimalAction,Neutral,Somewhat Easy,Understood very little,,3
+84,DatasetSimilarity,Confident,Somewhat Easy,Completely understood,,3
+84,TemporalDecomposition,Neutral,Neutral,Mostly understood,,1
+84,SARFA,Neutral,Neutral,Mostly understood,,2
+84,OptimalAction,Confident,Somewhat Easy,Completely understood,,0
+85,DatasetSimilarity,Neutral,Neutral,Neutral,,1
+85,TemporalDecomposition,Confident,Neutral,Neutral,,2
+85,SARFA,Neutral,Neutral,Mostly understood,,0
+85,OptimalAction,Confident,Neutral,Neutral,,3
+86,DatasetSimilarity,Very Confident,Somewhat Easy,Completely understood,,3
+86,TemporalDecomposition,Neutral,Somewhat Difficult,Neutral,,1
+86,SARFA,Unconfident,Very Difficult,Understood very little,,0
+86,OptimalAction,Confident,Somewhat Easy,Mostly understood,,2
+87,DatasetSimilarity,Neutral,Somewhat Difficult,Understood very little,,2
+87,TemporalDecomposition,Confident,Somewhat Easy,Mostly understood,,0
+87,SARFA,Unconfident,Somewhat Difficult,Mostly understood,,3
+87,OptimalAction,Confident,Somewhat Difficult,Mostly understood,,1
+88,DatasetSimilarity,Neutral,Somewhat Easy,Mostly understood,"Some videos I thought I understood, others I didn't understand the intention.",3
+88,TemporalDecomposition,Unconfident,Very Difficult,Did not understand at all,"Hadn't got a clue how to read the charts, very difficult for me.",2
+88,SARFA,Unconfident,Somewhat Difficult,Neutral,I used to play pacman when I was younger (many years ago)! But I struggled to determine the correct answers.,0
+88,OptimalAction,Confident,Somewhat Easy,Mostly understood,I felt that I understood this more in written words.,1
+89,DatasetSimilarity,Neutral,Neutral,Mostly understood,,1
+89,TemporalDecomposition,Confident,Somewhat Difficult,Neutral,,0
+89,SARFA,Unconfident,Somewhat Difficult,Understood very little,,3
+89,OptimalAction,Very Unconfident,Somewhat Difficult,Understood very little,,2
+90,DatasetSimilarity,Confident,Neutral,Mostly understood,,1
+90,TemporalDecomposition,Neutral,Somewhat Easy,Mostly understood,,3
+90,SARFA,Unconfident,Somewhat Difficult,Understood very little,,2
+90,OptimalAction,Neutral,Somewhat Difficult,Understood very little,,0
+91,DatasetSimilarity,Neutral,Neutral,Mostly understood,,3
+91,TemporalDecomposition,Neutral,Neutral,Mostly understood,,0
+91,SARFA,Neutral,Neutral,Mostly understood,,2
+91,OptimalAction,Neutral,Somewhat Easy,Neutral,,1
+92,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,,2
+92,TemporalDecomposition,Confident,Somewhat Easy,Completely understood,no additional thoughts,1
+92,SARFA,Confident,Somewhat Easy,Mostly understood,,3
+92,OptimalAction,Very Confident,Very Easy,Completely understood,This game was fun and mentally stimulating.,0
+93,DatasetSimilarity,Very Unconfident,Very Difficult,Did not understand at all,,3
+93,TemporalDecomposition,Very Unconfident,Very Difficult,Did not understand at all,,1
+93,SARFA,Very Unconfident,Very Difficult,Did not understand at all,,2
+93,OptimalAction,Unconfident,Somewhat Difficult,Understood very little,,0
+94,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,,2
+94,TemporalDecomposition,Neutral,Neutral,Neutral,,3
+94,SARFA,Unconfident,Neutral,Neutral,,0
+94,OptimalAction,Confident,Neutral,Mostly understood,,1
+95,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,,0
+95,TemporalDecomposition,Unconfident,Somewhat Difficult,Understood very little,,3
+95,SARFA,Unconfident,Somewhat Difficult,Neutral,,1
+95,OptimalAction,Confident,Somewhat Easy,Mostly understood,,2
+96,DatasetSimilarity,Neutral,Neutral,Neutral,,2
+96,TemporalDecomposition,Unconfident,Somewhat Difficult,Understood very little,,3
+96,SARFA,Neutral,Neutral,Neutral,,1
+96,OptimalAction,Neutral,Neutral,Neutral,,0
+97,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,,2
+97,TemporalDecomposition,Neutral,Neutral,Neutral,,1
+97,SARFA,Confident,Neutral,Mostly understood,,0
+97,OptimalAction,Very Confident,Somewhat Easy,Completely understood,,3
+98,DatasetSimilarity,Confident,Neutral,Neutral,,2
+98,TemporalDecomposition,Unconfident,Somewhat Difficult,Neutral,,3
+98,SARFA,Neutral,Somewhat Difficult,Neutral,,1
+98,OptimalAction,Neutral,Somewhat Difficult,Mostly understood,,0
+99,DatasetSimilarity,Unconfident,Somewhat Difficult,Mostly understood,The videos weren't long enough to accurately judge the strategy.,0
+99,TemporalDecomposition,Neutral,Neutral,Neutral,,2
+99,SARFA,Unconfident,Neutral,Neutral,,3
+99,OptimalAction,Unconfident,Neutral,Understood very little,"There were frames were it said ""move right"" or ""move down"" when this was not possible.",1
+100,DatasetSimilarity,Very Confident,Very Easy,Completely understood,,3
+100,TemporalDecomposition,Confident,Somewhat Easy,Mostly understood,,0
+100,SARFA,Confident,Somewhat Easy,Mostly understood,,2
+100,OptimalAction,Very Confident,Very Easy,Completely understood,,1
+101,DatasetSimilarity,Neutral,Somewhat Difficult,Neutral,,0
+101,TemporalDecomposition,Unconfident,Very Difficult,Understood very little,,1
+101,SARFA,Neutral,Neutral,Neutral,,3
+101,OptimalAction,Unconfident,Somewhat Difficult,Neutral,,2
+102,DatasetSimilarity,Neutral,Somewhat Difficult,Neutral,,0
+102,TemporalDecomposition,Neutral,Somewhat Difficult,Neutral,,1
+102,SARFA,Neutral,Somewhat Easy,Mostly understood,,2
+102,OptimalAction,Confident,Somewhat Easy,Mostly understood,,3
+103,DatasetSimilarity,Unconfident,Somewhat Difficult,Neutral,,0
+103,TemporalDecomposition,Very Unconfident,Very Difficult,Did not understand at all,,2
+103,SARFA,Unconfident,Somewhat Difficult,Understood very little,,3
+103,OptimalAction,Unconfident,Neutral,Understood very little,,1
+104,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,,1
+104,TemporalDecomposition,Confident,Somewhat Easy,Mostly understood,,0
+104,SARFA,Unconfident,Somewhat Difficult,Understood very little,,2
+104,OptimalAction,Confident,Somewhat Easy,Mostly understood,,3
+105,DatasetSimilarity,Neutral,Neutral,Neutral,It was sometimes difficult to understand if the agent was trying to avoid the ghosts but was just a little bit rubbish.  Did it intend to get eaten or did it just make a mistake?  ,2
+105,TemporalDecomposition,Confident,Somewhat Easy,Mostly understood,I think this seemed like a better way to see into the Agent's 'mind' and make a guess as to what it was planning.  ,3
+105,SARFA,Confident,Neutral,Neutral,"This one was pretty tricky.  I wasn't sure if the AI/Agent was identifying places to escape to, or items (ghosts/pills) in the areas of interest.  ",1
+105,OptimalAction,Confident,Somewhat Easy,Completely understood,An optional comments box might be useful so that participants can explain their thoughts when a strategy isn't 100% clear. ,0
+106,DatasetSimilarity,Unconfident,Very Difficult,Neutral,,0
+106,TemporalDecomposition,Very Unconfident,Very Difficult,Did not understand at all,,2
+106,SARFA,Unconfident,Very Difficult,Did not understand at all,,3
+106,OptimalAction,Neutral,Somewhat Difficult,Neutral,,1
+107,DatasetSimilarity,Confident,Neutral,Neutral,,0
+107,TemporalDecomposition,Unconfident,Neutral,Neutral,harder to consume this information as you don't know what their goal is,3
+107,SARFA,Neutral,Neutral,Neutral,it was alot harder to tell with just an image rather than a video,1
+107,OptimalAction,Confident,Neutral,Mostly understood,i found it a bit easier as I knew the intentions,2
+108,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,,0
+108,TemporalDecomposition,Confident,Somewhat Easy,Mostly understood,,2
+108,SARFA,Confident,Somewhat Easy,Mostly understood,,3
+108,OptimalAction,Confident,Somewhat Easy,Mostly understood,,1
+109,DatasetSimilarity,Very Unconfident,Somewhat Difficult,Neutral,none ,0
+109,TemporalDecomposition,Confident,Neutral,Neutral,none,1
+109,SARFA,Neutral,Somewhat Difficult,Understood very little,none,2
+109,OptimalAction,Neutral,Neutral,Neutral,none,3
+110,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,Some of my first impressions seem to depend on the direction that the agent is facing,1
+110,TemporalDecomposition,Neutral,Somewhat Difficult,Neutral,"It was clear that for each type, there was going to be a percentage value for increased or decreased likelihood of reward fulfilment, but without being more involved in that sort of mathmatics I would not feel confident identifying them from a graphical analysis. ",3
+110,SARFA,Confident,Somewhat Easy,Neutral,"the heat maps don't show the chronology of movement, just an average of all movements",2
+110,OptimalAction,Confident,Somewhat Easy,Mostly understood,It was a little complex to understand which was the agent. But otherwise it was good,0
+111,DatasetSimilarity,Very Confident,Very Easy,Completely understood,,3
+111,TemporalDecomposition,Confident,Somewhat Easy,Mostly understood,,1
+111,SARFA,Very Confident,Very Easy,Completely understood,,2
+111,OptimalAction,Very Confident,Somewhat Easy,Mostly understood,,0
+112,DatasetSimilarity,Confident,Neutral,Neutral,,3
+112,TemporalDecomposition,Confident,Neutral,Mostly understood,,2
+112,SARFA,Confident,Somewhat Easy,Mostly understood,,0
+112,OptimalAction,Very Confident,Somewhat Easy,Completely understood,,1
+113,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,,1
+113,TemporalDecomposition,Confident,Somewhat Easy,Mostly understood,,3
+113,SARFA,Confident,Somewhat Easy,Mostly understood,,0
+113,OptimalAction,Confident,Somewhat Easy,Neutral,,2
+114,DatasetSimilarity,Confident,Somewhat Difficult,Mostly understood,,0
+114,TemporalDecomposition,Very Confident,Somewhat Difficult,Neutral,,1
+114,SARFA,Confident,Somewhat Easy,Mostly understood,,3
+114,OptimalAction,Confident,Somewhat Difficult,Mostly understood,,2
+117,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,,2
+117,TemporalDecomposition,Neutral,Somewhat Difficult,Neutral,,1
+117,SARFA,Neutral,Somewhat Difficult,Mostly understood,,0
+117,OptimalAction,Neutral,Neutral,Mostly understood,,3
+118,DatasetSimilarity,Confident,Somewhat Easy,Mostly understood,,3
+118,TemporalDecomposition,Confident,Very Easy,Mostly understood,,1
+118,SARFA,Confident,Somewhat Easy,Mostly understood,,0
+118,OptimalAction,Neutral,Somewhat Difficult,Mostly understood,,2
+119,DatasetSimilarity,Neutral,Neutral,Mostly understood,,0
+119,TemporalDecomposition,Confident,Somewhat Easy,Mostly understood,,1
+119,SARFA,Confident,Somewhat Easy,Completely understood,,3
+119,OptimalAction,Confident,Somewhat Easy,Completely understood,,2
+121,DatasetSimilarity,Neutral,Somewhat Difficult,Mostly understood,,2
+121,TemporalDecomposition,Unconfident,Somewhat Difficult,Mostly understood,,1
+121,SARFA,Confident,Somewhat Difficult,Completely understood,,0
+121,OptimalAction,Neutral,Somewhat Difficult,Mostly understood,,3
+122,DatasetSimilarity,Confident,Somewhat Easy,Completely understood,,3
+122,TemporalDecomposition,Confident,Somewhat Easy,Completely understood,,1
+122,SARFA,Confident,Somewhat Easy,Completely understood,,0
+122,OptimalAction,Confident,Somewhat Easy,Mostly understood,,2
