@@ -2,6 +2,8 @@
 
 This project involved implementing a strategy identification evaluation methodology for explainable reinforcement learning. 
 
+The associated write up of this research will be available upon publication of my PhD or please email me for an early copy.
+
 We use the evaluation methodology set out in the figure below
 ![Flowchart of the evaluation methodology for a single question](/figs/goal-identification-task.png)
 
